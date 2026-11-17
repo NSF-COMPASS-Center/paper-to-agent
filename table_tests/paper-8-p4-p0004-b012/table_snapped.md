@@ -1,0 +1,30 @@
+| Target a | Function | Name | Sequence (5′–3′) b | References |
+|---|---|---|---|---|
+| GI NoV | Forward primer | COG1F | CGYTGGATGCGNTTYCATGA | Kageyama et al. (2003) |
+| GI NoV | Reverse primer | COG1R | CTTAGACGCCATCATCATTYAC |  |
+| GI NoV | TaqMan probe | RING1(a)-TP | FAM-AGATYGCGATCYCCTGTCCA-TAMRA |  |
+| GI NoV | TaqMan probe | RING1(b)-TP | FAM-AGATCGCGGTCTCCTGTCCA-TAMRA |  |
+| GII NoV | Forward primer | COG2F | CARGARBCNATGTTYAGRTGGATGAG | Kageyama et al. (2003) |
+| GII NoV | Reverse primer | COG2R | TCGACGCCATCTTCATTCACA |  |
+| GII NoV | TaqMan probe | RING2 | FAM-TGGGAGGGCGATCGCAATCT-TAMRA |  |
+| AiV | Forward primer | AiV-AB-F | GTCTCCACHGACACYAAYTGGAC | Kitajima et al. (2013) |
+| AiV | Reverse primer | AiV-AB-R | GTTGTACATRGCAGCCCAGG |  |
+| AiV | TaqMan probe | AiV-AB-TP | FAM-TTYTCCTTYGTGCGTGC-MGB-NFQ |  |
+| EV | Forward primer | Pan-entero+ | CCTCCGGCCCCTGAATG | Shieh et al. (1995) |
+| EV | Reverse primer | Pan-entero- | ACCGGATGGCCAATCCAA |  |
+| EV | TaqMan probe |  | FAM-CCGACTACTTTGGGTGTCCGTGTTTC-TAMRA | Katayama et al. (2002) |
+| PMMoV | Forward primer | PMMV-FP1-rev | GAGTGGTTTGACCTTAACGTTTGA | Haramoto et al. (2013) |
+| PMMoV | Reverse primer | PMMV-RP1 | TTGTCGGTTGCAATGCAAGT |  |
+| PMMoV | TaqMan probe | PMMV-Probe1 | FAM-CCTACCGAAGCAAATG-MGB-NFQ | Zhang et al. (2006) |
+| EAdV | Forward primer | JTVFF | AACTTTCTCTCTTAATAGACGCC | Ko et al. (2005) |
+| EAdV | Reverse primer | JTVFR | AGGGGGCTAGAAAACAAAA |  |
+| EAdV | TaqMan probe | JTVFP | FAM-CTGACACGGGCACTCTTCGC-TAMRA |  |
+| JC PyV | Forward primer | Primer 1 | AGAGTGTTGGGATCCTGTGTTTT | Dumonceaux et al. (2008) |
+| JC PyV | Reverse primer | Primer 2 | GAGAAGTGGGATGAAGACCTGTTT |  |
+| JC PyV | TaqMan probe | Probe 1 | FAM-TCATCACTGGCAAACAT-MGB-NFQ |  |
+| BK PyV | Forward primer | Primer 2 | ATCCAAACCAAGGGCTCTTTTC | Dumonceaux et al. (2008) |
+| BK PyV | Reverse primer | Primer 3 | GCACTGCCCTTGCATGCTA |  |
+| BK PyV | TaqMan probe | Probe | FAM-CAGCTTAGATTAAGGCATTT-MGB-NFQ |  |
+| MNV | Forward primer | MKMNVF | CGGTGAAGTGCTTCTGAGGTT | Kitajima et al. (2008) |
+| MNV | Reverse primer | MKMNVR | ACGCTCCAA GATCCTACCA |  |
+| MNV | TaqMan probe | MKMNVP | FAM-CGAACCTACATGCGTCAG-MGB-NFQ |  |

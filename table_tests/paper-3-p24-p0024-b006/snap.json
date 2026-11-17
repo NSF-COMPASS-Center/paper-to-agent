@@ -1,0 +1,26 @@
+{
+ "verdict_before": "partial",
+ "verdict_after": "partial",
+ "check_before": {
+  "checked": true,
+  "native_words": 191,
+  "coverage": 1.0,
+  "precision": 1.0,
+  "missing": [],
+  "invented": [],
+  "excluded_lines": []
+ },
+ "check_after": {
+  "checked": true,
+  "native_words": 191,
+  "coverage": 1.0,
+  "precision": 1.0,
+  "missing": [],
+  "invented": [],
+  "excluded_lines": []
+ },
+ "snaps": [],
+ "paired": [],
+ "unmatched": [],
+ "skipped": ""
+}

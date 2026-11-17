@@ -1,0 +1,19 @@
+review_model = "gpt-5"
+vision_model = "gpt-5"
+preview_dpi  = 200
+asset_dpi    = 600     # vendored default is 180; 600 is ~11x the pixels
+transcribe_dpi = 400
+max_turns_per_page = 20
+max_transcribe_calls_per_page = 6
+max_build_verify_rounds = 4
+
+# USD per 1,000,000 tokens. Verify against current pricing.
+[pricing.gpt-5]
+input = 1.25
+cached_input = 0.125
+output = 10.00
+
+[pricing."gpt-5-mini"]
+input = 0.25
+cached_input = 0.025
+output = 2.00

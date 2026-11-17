@@ -1,0 +1,134 @@
+{
+ "verdict_before": "rejected",
+ "verdict_after": "accepted",
+ "check_before": {
+  "checked": true,
+  "native_words": 90,
+  "coverage": 0.955,
+  "precision": 0.71,
+  "missing": [
+   "0691e",
+   "5152",
+   "9912"
+  ],
+  "invented": [
+   "24e04",
+   "14e03",
+   "26e03",
+   "43e02",
+   "55e08",
+   "81e06",
+   "69e06",
+   "17e06",
+   "13e06",
+   "85e07",
+   "69e06",
+   "14e07"
+  ],
+  "excluded_lines": []
+ },
+ "check_after": {
+  "checked": true,
+  "native_words": 90,
+  "coverage": 0.955,
+  "precision": 0.986,
+  "missing": [
+   "5152",
+   "0691e",
+   "9912"
+  ],
+  "invented": [
+   "11e05"
+  ],
+  "excluded_lines": []
+ },
+ "snaps": [],
+ "paired": [],
+ "unmatched": [
+  {
+   "row": 1,
+   "col": 1,
+   "token": "1130",
+   "why": "unmatched"
+  },
+  {
+   "row": 1,
+   "col": 2,
+   "token": "1.4E+03",
+   "why": "unmatched"
+  },
+  {
+   "row": 1,
+   "col": 2,
+   "token": "1130",
+   "why": "unmatched"
+  },
+  {
+   "row": 2,
+   "col": 2,
+   "token": "4.3E+02",
+   "why": "unmatched"
+  },
+  {
+   "row": 3,
+   "col": 2,
+   "token": "8.1E+06",
+   "why": "unmatched"
+  },
+  {
+   "row": 3,
+   "col": 2,
+   "token": "6.9E+06",
+   "why": "unmatched"
+  },
+  {
+   "row": 3,
+   "col": 4,
+   "token": "1.7E+06",
+   "why": "unmatched"
+  },
+  {
+   "row": 3,
+   "col": 4,
+   "token": "1.3E+06",
+   "why": "unmatched"
+  },
+  {
+   "row": 4,
+   "col": 1,
+   "token": "6.9E+06",
+   "why": "unmatched"
+  },
+  {
+   "row": 4,
+   "col": 2,
+   "token": "1.4E+07",
+   "why": "unmatched"
+  },
+  {
+   "row": 4,
+   "col": 2,
+   "token": "1.5E+07",
+   "why": "unmatched"
+  },
+  {
+   "row": 4,
+   "col": 4,
+   "token": "1.2E+06",
+   "why": "unmatched"
+  },
+  {
+   "row": 4,
+   "col": 4,
+   "token": "1.1E+05",
+   "why": "unmatched"
+  },
+  {
+   "row": 5,
+   "col": 1,
+   "token": "1.5E+07",
+   "why": "unmatched"
+  }
+ ],
+ "skipped": ""
+}

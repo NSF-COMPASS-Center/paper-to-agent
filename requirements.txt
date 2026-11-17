@@ -1,0 +1,16 @@
+openai>=1.109.1
+openai-agents>=0.4.2
+pydantic>=2.11.0
+# vendored paper2skill engine
+pymupdf==1.28.2
+pymupdf4llm==1.28.2
+pypdf==6.18.1
+pillow==12.2.0
+# Parses embedded CFF/Type1 font encodings. Without it the extractor can mangle
+# comparison symbols (">" comes out as "N", "<" as "b"), which is the single
+# most damaging text defect in this pipeline. Install it.
+fonttools>=4.56.0
+
+# dev only: tests/test_lint.py skips without it
+pyflakes>=3.2.0
+pytest>=8.0

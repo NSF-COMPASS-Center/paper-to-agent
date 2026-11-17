@@ -1,0 +1,134 @@
+{
+ "box": [
+  242.0,
+  126.0,
+  353.0,
+  693.0
+ ],
+ "dpi": 400,
+ "rows": [
+  [
+   "Organism",
+   "Concentration of test organism/mL / Influent",
+   "Concentration of test organism/mL / After sedimentation",
+   "Log removal",
+   "Concentration of test organism/mL / After filtration",
+   "Log removal",
+   "Total log removal"
+  ],
+  [
+   "E. coli",
+   "2.4E+04 ± 1130",
+   "1.4E+03 ± 1130",
+   "1.23",
+   "51 ± 52",
+   "",
+   "2.67"
+  ],
+  [
+   "E. intestinalis",
+   "2.6E+03 ± 247",
+   "4.3E+02 ± 247",
+   "0.78",
+   "8.9 ± 10.5",
+   "",
+   "2.47"
+  ],
+  [
+   "MS-2",
+   "5.5E+08",
+   "8.1E+06 ± 6.9E+06",
+   "1.83",
+   "1.7E+06 ± 1.3E+06",
+   "",
+   "2.51"
+  ],
+  [
+   "PRD-1",
+   "8.5E+07 ± 6.9E+06",
+   "1.4E+07 ± 1.5E+07",
+   "0.78",
+   "1.2E+06 ± 1.1E+05",
+   "",
+   "1.85"
+  ],
+  [
+   "Fr",
+   "2.9E+08 ± 1.5E+07",
+   "3.1E+06",
+   "1.97",
+   "1.8E+05",
+   "",
+   "3.21"
+  ],
+  [
+   "Feline calicivirus",
+   "3.1E+06",
+   "9.9 ± 12",
+   "2.49",
+   "",
+   "> 2.79 ± 0.18",
+   "3.05"
+  ]
+ ],
+ "padded": false,
+ "cut_off": [],
+ "uncertain": [
+  "row 2, col 2: 1.4E+03 ± 1130",
+  "row 1, col 2: 2.4E+04 ± 1130",
+  "row 3, col 2: 5.5E+08",
+  "row 4, col 2: 8.5E+07 ± 6.9E+06",
+  "row 5, col 2: 2.9E+08 ± 1.5E+07",
+  "row 1, col 6: ",
+  "row 2, col 6: ",
+  "row 3, col 6: ",
+  "row 4, col 6: ",
+  "row 5, col 6: ",
+  "row 6, col 5: "
+ ],
+ "notes": "Rotated source; values use scientific notation and ±; one cell shows a leading > sign.",
+ "check": {
+  "checked": true,
+  "native_words": 90,
+  "coverage": 0.955,
+  "precision": 0.71,
+  "missing": [
+   "0691e",
+   "5152",
+   "9912"
+  ],
+  "invented": [
+   "24e04",
+   "14e03",
+   "26e03",
+   "43e02",
+   "55e08",
+   "81e06",
+   "69e06",
+   "17e06",
+   "13e06",
+   "85e07",
+   "69e06",
+   "14e07"
+  ],
+  "excluded_lines": []
+ },
+ "bands": 0,
+ "verdict": "rejected",
+ "attempts": 2,
+ "history": [
+  {
+   "verdict": "rejected",
+   "bands": 0,
+   "coverage": 0.955
+  },
+  {
+   "verdict": "rejected",
+   "bands": 3,
+   "coverage": 0.894
+  }
+ ],
+ "usd": 0.8132,
+ "reviewer_reason": null,
+ "case": "paper-53-p9-p0009-b006"
+}

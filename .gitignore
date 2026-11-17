@@ -1,0 +1,15 @@
+# environments and secrets
+.venv/
+*.env
+config.toml
+
+# conversion outputs (large, regenerated): review dirs, delivered packages, logs
+runs/
+dist/
+out/
+logs/
+
+# caches / OS
+__pycache__/
+.pytest_cache/
+.DS_Store

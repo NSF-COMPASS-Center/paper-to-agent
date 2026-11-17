@@ -1,0 +1,9 @@
+| Mean Virus Titre (Log10 TCID50/Litre) ± SD | Mean Virus Titre (Log10 TCID50/Litre) ± SD | Mean Virus Titre (Log10 TCID50/Litre) ± SD | Mean Virus Titre (Log10 TCID50/Litre) ± SD | Mean Virus Titre (Log10 TCID50/Litre) ± SD | Mean Virus Titre (Log10 TCID50/Litre) ± SD | Mean Virus Titre (Log10 TCID50/Litre) ± SD | Mean Virus Titre (Log10 TCID50/Litre) ± SD | Mean Virus Titre (Log10 TCID50/Litre) ± SD | Mean Virus Titre (Log10 TCID50/Litre) ± SD | Mean Virus Titre (Log10 TCID50/Litre) ± SD | Mean Virus Titre (Log10 TCID50/Litre) ± SD |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|  |  | EMEM | EMEM | EMEM | EMEM | EMEM | BNSI | BNSI | BNSI | BNSI | BNSI |
+| T | RH | 0 | 7 min | 1 h | 2 h | 3 h | 0 | 7 min | 1 h | 2 h | 3 h |
+| 32°C | 30% | 5.6 ±0.21 | 4.2 ±0.21 | 3.2 ±0.12 | 1.9 ±0.17 | 0.0 ±0.00 | 5.6 ±0.25 | 3.9 ±0.25 | 2.8 ±0.23 | 0.0 ±0.00 | 0.0 ±0.00 |
+|  | 90% | 5.7 ±0.15 | 5.6 ±0.10 | 5.0 ±0.30 | 4.4 ±0.20 | 4.0 ±0.12 | 5.6 ±0.12 | 4.5 ±0.53 | 3.8 ±0.59 | 3.2 ±0.06 | 1.9 ±0.00 |
+| 6°C | 30% | 5.5 ±0.12 | 4.1 ±0.15 | 3.7 ±0.25 | 3.1 ±0.17 | 3.0 ±0.12 | 5.8 ±0.06 | 4.6 ±0.10 | 3.6 ±0.25 | 2.8 ±0.26 | 2.6 ±0.21 |
+|  | 90% | 5.7 ±0.12 | 5.7 ±0.23 | 5.3 ±0.12 | 4.9 ±0.06 | 4.6 ±0.20 | 5.5 ±0.06 | 4.8 ±0.00 | 4.2 ±0.30 | 3.8 ±0.10 | 3.6 ±0.12 |
+| Fig. 6a. Effect of temperature (T) on the biological decay of bovine adenovirus type 3 in aerosols of Eagle's minimum essential medium at 30% RH during the aging period. ⬡ ◇ = average of estimated virus titre. ⬢ ◆ = average of observed virus titre. | Fig. 6b. Effect of temperature (T) on the biological decay of bovine adenovirus type 3 in aerosols of Eagle's minimum essential medium at 90% RH during the aging period ⬡ ◇ = average of estimated virus titre. ⬢ ◆ = average of observed virus titre. |  |  |  |  |  |  |  |  |  |  |

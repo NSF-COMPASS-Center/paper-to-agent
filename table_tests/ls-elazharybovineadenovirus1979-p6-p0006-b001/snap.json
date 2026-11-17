@@ -1,0 +1,52 @@
+{
+ "verdict_before": "rejected",
+ "verdict_after": "rejected",
+ "check_before": {
+  "checked": true,
+  "native_words": 258,
+  "coverage": 0.886,
+  "precision": 1.0,
+  "missing": [
+   "4000",
+   "i025",
+   "i000",
+   "320c",
+   "60c",
+   "standard",
+   "deviation",
+   "6t",
+   "4",
+   "ii2",
+   "t32c",
+   "0o"
+  ],
+  "invented": [],
+  "excluded_lines": []
+ },
+ "check_after": {
+  "checked": true,
+  "native_words": 258,
+  "coverage": 0.886,
+  "precision": 1.0,
+  "missing": [
+   "4000",
+   "i025",
+   "i000",
+   "320c",
+   "60c",
+   "standard",
+   "deviation",
+   "6t",
+   "4",
+   "ii2",
+   "t32c",
+   "0o"
+  ],
+  "invented": [],
+  "excluded_lines": []
+ },
+ "snaps": [],
+ "paired": [],
+ "unmatched": [],
+ "skipped": ""
+}

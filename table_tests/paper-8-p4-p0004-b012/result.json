@@ -1,0 +1,299 @@
+{
+ "box": [
+  43.0,
+  438.0,
+  562.0,
+  701.0
+ ],
+ "dpi": 400,
+ "rows": [
+  [
+   "Target a",
+   "Function",
+   "Name",
+   "Sequence (5′–3′) b",
+   "References"
+  ],
+  [
+   "GI NoV",
+   "Forward primer",
+   "COG1F",
+   "CGYTGGATGCGNTTYCATGA",
+   "Kageyama et al. (2003)"
+  ],
+  [
+   "GI NoV",
+   "Reverse primer",
+   "COG1R",
+   "CTTAGACGCCATCATCATTYAC",
+   ""
+  ],
+  [
+   "GI NoV",
+   "TaqMan probe",
+   "RING1(a)-TP",
+   "FAM-AGATYGCGATCYCCTGTCCA-TAMRA",
+   ""
+  ],
+  [
+   "GI NoV",
+   "TaqMan probe",
+   "RING1(b)-TP",
+   "FAM-AGATCGCGGTCTCCTGTCCA-TAMRA",
+   ""
+  ],
+  [
+   "GII NoV",
+   "Forward primer",
+   "COG2F",
+   "CARGARBCNATGTTYAGRTGGATGAG",
+   "Kageyama et al. (2003)"
+  ],
+  [
+   "GII NoV",
+   "Reverse primer",
+   "COG2R",
+   "TCGACGCCATCTTCATTCACA",
+   ""
+  ],
+  [
+   "GII NoV",
+   "TaqMan probe",
+   "RING2",
+   "FAM-TGGGAGGGCGATCGCAATCT-TAMRA",
+   ""
+  ],
+  [
+   "AiV",
+   "Forward primer",
+   "AiV-AB-F",
+   "GTCTCCACHGACAYAAYTGGAC",
+   "Kitajima et al. (2013)"
+  ],
+  [
+   "AiV",
+   "Reverse primer",
+   "AiV-AB-R",
+   "GTTGTACATRGCAGCCCAGG",
+   ""
+  ],
+  [
+   "AiV",
+   "TaqMan probe",
+   "AiV-AB-TP",
+   "FAM-TTYTCCCTYGTGCGGCG-MGB-NFQ",
+   ""
+  ],
+  [
+   "EV",
+   "Forward primer",
+   "Pan-entero+",
+   "CCTCCGGCCCCTGAATG",
+   "Shieh et al. (1995)"
+  ],
+  [
+   "EV",
+   "Reverse primer",
+   "Pan-entero-",
+   "ACCCGTTGCCCAATCAA",
+   ""
+  ],
+  [
+   "EV",
+   "TaqMan probe",
+   "",
+   "FAM-CCGACTACTTTGGTGTTCCGTTTC-TAMRA",
+   "Katayama et al. (2002)"
+  ],
+  [
+   "PMMoV",
+   "Forward primer",
+   "PMMV-FP1-rev",
+   "GAGTGGTTGACCTTAACGTTTGA",
+   "Haramoto et al. (2013)"
+  ],
+  [
+   "PMMoV",
+   "Reverse primer",
+   "PMMV-RP1",
+   "TTGTCGCTGCTAACTGGTTGA",
+   ""
+  ],
+  [
+   "PMMoV",
+   "TaqMan probe",
+   "PMMV-Probe1",
+   "FAM-CCTACCGAAGCAAATG-MGB-NFQ",
+   "Zhang et al. (2006)"
+  ],
+  [
+   "EAdV",
+   "Forward primer",
+   "JTVFF",
+   "AACTTTCCTTAATAAGACGCC",
+   "Ko et al. (2005)"
+  ],
+  [
+   "EAdV",
+   "Reverse primer",
+   "JTVFR",
+   "AGGGCGCTAGAAAAACAAAA",
+   ""
+  ],
+  [
+   "EAdV",
+   "TaqMan probe",
+   "JTVFP",
+   "FAM-CTGACACGGCGACTCCTCCG-TAMRA",
+   ""
+  ],
+  [
+   "JC PyV",
+   "Forward primer",
+   "Primer 1",
+   "AGAGATGCTGTTGGTGTTTTT",
+   "Dumonceaux et al. (2008)"
+  ],
+  [
+   "JC PyV",
+   "Reverse primer",
+   "Primer 2",
+   "GAGAAGTGCGATGAAGACCTGT",
+   ""
+  ],
+  [
+   "JC PyV",
+   "TaqMan probe",
+   "Probe 1",
+   "FAM-TCATCACCATGAACACT-MGB-NFQ",
+   ""
+  ],
+  [
+   "BK PyV",
+   "Forward primer",
+   "Primer 2",
+   "ATCCAAAACAGCCTGCTCTT",
+   "Dumonceaux et al. (2008)"
+  ],
+  [
+   "BK PyV",
+   "Reverse primer",
+   "Primer 3",
+   "CAGGCTCCTCATCTTACTA",
+   ""
+  ],
+  [
+   "BK PyV",
+   "TaqMan probe",
+   "Probe",
+   "FAM-CAGCTGATGACCTCACTT-MGB-NFQ",
+   ""
+  ],
+  [
+   "MNV",
+   "Forward primer",
+   "MKMNVF",
+   "CCGTCGAGGTTCTGAGTT",
+   "Kitajima et al. (2008)"
+  ],
+  [
+   "MNV",
+   "Reverse primer",
+   "MKMNVR",
+   "ACGCTCCAA GATCCTACCA",
+   ""
+  ],
+  [
+   "MNV",
+   "TaqMan probe",
+   "MKMNP",
+   "FAM-CAGCACGTCGAACGTACG-MGB-NFQ",
+   ""
+  ]
+ ],
+ "padded": false,
+ "cut_off": [],
+ "uncertain": [
+  "row 2, col 4: CGYTGGATGCGNTTYCATGA",
+  "row 8, col 4: FAM-TGGGAGGGCGATCGCAATCT-TAMRA",
+  "row 9, col 4: GTCTCCACHGACAYAAYTGGAC",
+  "row 10, col 4: GTTGTACATRGCAGCCCAGG",
+  "row 11, col 4: FAM-TTYTCCCTYGTGCGGCG-MGB-NFQ",
+  "row 12, col 4: CCTCCGGCCCCTGAATG",
+  "row 13, col 4: ACCCGTTGCCCAATCAA",
+  "row 14, col 1: EV",
+  "row 14, col 3: ",
+  "row 14, col 4: FAM-CCGACTACTTTGGTGTTCCGTTTC-TAMRA",
+  "row 15, col 4: GAGTGGTTGACCTTAACGTTTGA",
+  "row 16, col 4: TTGTCGCTGCTAACTGGTTGA",
+  "row 17, col 4: FAM-CCTACCGAAGCAAATG-MGB-NFQ",
+  "row 18, col 4: AACTTTCCTTAATAAGACGCC",
+  "row 19, col 4: AGGGCGCTAGAAAAACAAAA",
+  "row 20, col 4: FAM-CTGACACGGCGACTCCTCCG-TAMRA",
+  "row 21, col 4: AGAGATGCTGTTGGTGTTTTT",
+  "row 22, col 4: GAGAAGTGCGATGAAGACCTGT",
+  "row 23, col 4: FAM-TCATCACCATGAACACT-MGB-NFQ",
+  "row 24, col 4: ATCCAAAACAGCCTGCTCTT",
+  "row 25, col 4: CAGGCTCCTCATCTTACTA",
+  "row 26, col 4: FAM-CAGCTGATGACCTCACTT-MGB-NFQ",
+  "row 27, col 4: CCGTCGAGGTTCTGAGTT",
+  "row 28, col 4: ACGCTCCAA GATCCTACCA",
+  "row 29, col 4: FAM-CAGCACGTCGAACGTACG-MGB-NFQ"
+ ],
+ "notes": "Several sequence strings are difficult to read clearly from the image; best-effort readings are provided and flagged in 'uncertain'.",
+ "check": {
+  "checked": true,
+  "native_words": 191,
+  "coverage": 0.863,
+  "precision": 0.86,
+  "missing": [
+   "50e30",
+   "gtctccachgacacyaaytggac",
+   "famttytccttygtgcgtgcmgbnfq",
+   "accggatggccaatccaa",
+   "famccgactactttgggtgtccgtgtttc",
+   "gagtggtttgaccttaacgtttga",
+   "ttgtcggttgcaatgcaagt",
+   "aactttctctcttaatagacgcc",
+   "agggggctagaaaacaaaa",
+   "famctgacacgggcactcttcgctamra",
+   "agagtgttgggatcctgtgtttt",
+   "gagaagtgggatgaagacctgttt"
+  ],
+  "invented": [
+   "53",
+   "gtctccachgacayaaytggac",
+   "famttytccctygtgcggcgmgbnfq",
+   "acccgttgcccaatcaa",
+   "famccgactactttggtgttccgtttctamra",
+   "gagtggttgaccttaacgtttga",
+   "ttgtcgctgctaactggttga",
+   "aactttccttaataagacgcc",
+   "agggcgctagaaaaacaaaa",
+   "famctgacacggcgactcctccgtamra",
+   "agagatgctgttggtgttttt",
+   "gagaagtgcgatgaagacctgt"
+  ],
+  "excluded_lines": [
+   "Primers and probes for qPCR detection of viruses."
+  ]
+ },
+ "bands": 0,
+ "verdict": "rejected",
+ "attempts": 2,
+ "history": [
+  {
+   "verdict": "rejected",
+   "bands": 0,
+   "coverage": 0.863
+  },
+  {
+   "verdict": "rejected",
+   "bands": 3,
+   "coverage": 0.842
+  }
+ ],
+ "usd": 0.9613,
+ "reviewer_reason": "Image-only table preserved due to complex multi-line cells and numerous entries; full transcription not completed in this review.",
+ "case": "paper-8-p4-p0004-b012"
+}

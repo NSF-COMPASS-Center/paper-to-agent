@@ -1,0 +1,13 @@
+| Virus | RH level favoring survival / Low | RH level favoring survival / Medium | RH level favoring survival / High | Nucleic acid core | Ether sensitivity | Classification by Wilner | Reference |
+|---|---|---|---|---|---|---|---|
+| Rous sarcoma |  |  | + | RNA | + | Myxovirus | 19 |
+| Influenza A | + |  |  | RNA | + | Myxovirus | 7 |
+| Newcastle disease | + |  |  | RNA | + | Myxovirus | Author |
+| Pigeon pox | + | + | + | DNA | + | Poxvirus | 19 |
+| Vaccinia | + |  |  | DNA | Chloroform+ | Poxvirus | 7 |
+| Poliomyelitis |  |  | + | RNA | − | Picornavirus | 7 |
+| VEE | + |  |  | RNA | + | Arborvirus | 7 |
+| IBR |  |  | + | DNA | + | Herpesvirus | Author |
+| Vesicular stomatitis | + |  |  | RNA | + | Unclassified | Author |
+| Psittacosis (6 BC) |  |  | + | RNA/DNA | + | Not classified as virus | 12 |
+| Bacteriophage T3 |  |  | + | DNA | − | Bacteriophage | Author |

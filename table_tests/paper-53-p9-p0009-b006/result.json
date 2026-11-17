@@ -1,0 +1,229 @@
+{
+ "box": [
+  242.0,
+  126.0,
+  353.0,
+  693.0
+ ],
+ "dpi": 400,
+ "padded": false,
+ "cut_off": [],
+ "uncertain": [],
+ "notes": "",
+ "bands": 0,
+ "rows": [
+  [
+   "Organism",
+   "Concentration of test organism/mL / Influent",
+   "Concentration of test organism/mL / After sedimentation",
+   "Log removal",
+   "Concentration of test organism/mL / After filtration",
+   "Total log removal"
+  ],
+  [
+   "E. coli",
+   "2.4E+04",
+   "1.4E+03 ± 1130",
+   "1.23",
+   "51 ± 52",
+   "2.67"
+  ],
+  [
+   "E. intestinalis",
+   "2.6E+03",
+   "4.3E+02 ± 247",
+   "0.78",
+   "8.9 ± 10.5",
+   "2.47"
+  ],
+  [
+   "MS-2",
+   "5.5E+08",
+   "8.1E+06 ± 6.9E+06",
+   "1.83",
+   "1.7E+06 ± 1.3E+06",
+   "2.51"
+  ],
+  [
+   "PRD-1",
+   "8.5E+07",
+   "1.4E+07 ± 1.5E+07",
+   "0.78",
+   "1.2E+06 ± 9.1E+05",
+   "1.85"
+  ],
+  [
+   "Fr",
+   "2.9E+08",
+   "3.1E+06",
+   "1.97",
+   "1.8E+05",
+   "3.21"
+  ],
+  [
+   "Feline calicivirus",
+   "3.1E+03",
+   "9.9 ± 12",
+   "2.49",
+   "> 2.79 ± 0.18",
+   "3.05"
+  ]
+ ],
+ "raw_rows": [
+  [
+   "Organism",
+   "Concentration of test organism/mL / Influent",
+   "Concentration of test organism/mL / After sedimentation",
+   "Log removal",
+   "Concentration of test organism/mL / After filtration",
+   "Total log removal"
+  ],
+  [
+   "E. coli",
+   "2.4E+04",
+   "1.4E+03 ± 1130",
+   "1.23",
+   "51 ± 52",
+   "2.67"
+  ],
+  [
+   "E. intestinalis",
+   "2.6E+03",
+   "4.3E+02 ± 247",
+   "0.78",
+   "8.9 ± 10.5",
+   "2.47"
+  ],
+  [
+   "MS-2",
+   "5.5E+08",
+   "8.1E+06 ± 6.9E+06",
+   "1.83",
+   "1.7E+06 ± 1.3E+06",
+   "2.51"
+  ],
+  [
+   "PRD-1",
+   "8.5E+07",
+   "1.4E+07 ± 1.5E+07",
+   "0.78",
+   "1.2E+06 ± 9.1E+05",
+   "1.85"
+  ],
+  [
+   "Fr",
+   "2.9E+08",
+   "3.1E+06",
+   "1.97",
+   "1.8E+05",
+   "3.21"
+  ],
+  [
+   "Feline calicivirus",
+   "3.1E+03",
+   "9.9 ± 12",
+   "2.49",
+   "> 2.79 ± 0.18",
+   "3.05"
+  ]
+ ],
+ "snaps": [],
+ "paired": [],
+ "unmatched": [
+  {
+   "row": 1,
+   "col": 2,
+   "token": "1.4E+03",
+   "why": "unmatched"
+  },
+  {
+   "row": 1,
+   "col": 2,
+   "token": "1130",
+   "why": "unmatched"
+  },
+  {
+   "row": 2,
+   "col": 2,
+   "token": "4.3E+02",
+   "why": "unmatched"
+  },
+  {
+   "row": 3,
+   "col": 2,
+   "token": "8.1E+06",
+   "why": "unmatched"
+  },
+  {
+   "row": 3,
+   "col": 2,
+   "token": "6.9E+06",
+   "why": "unmatched"
+  },
+  {
+   "row": 3,
+   "col": 4,
+   "token": "1.7E+06",
+   "why": "unmatched"
+  },
+  {
+   "row": 3,
+   "col": 4,
+   "token": "1.3E+06",
+   "why": "unmatched"
+  },
+  {
+   "row": 4,
+   "col": 2,
+   "token": "1.4E+07",
+   "why": "unmatched"
+  },
+  {
+   "row": 4,
+   "col": 2,
+   "token": "1.5E+07",
+   "why": "unmatched"
+  },
+  {
+   "row": 4,
+   "col": 4,
+   "token": "1.2E+06",
+   "why": "unmatched"
+  },
+  {
+   "row": 4,
+   "col": 4,
+   "token": "9.1E+05",
+   "why": "unmatched"
+  }
+ ],
+ "snap_skipped": "",
+ "check": {
+  "checked": true,
+  "native_words": 90,
+  "coverage": 0.97,
+  "precision": 1.0,
+  "missing": [
+   "5152",
+   "9912"
+  ],
+  "invented": [],
+  "excluded_lines": []
+ },
+ "verdict": "accepted",
+ "direction": [
+  0,
+  -1
+ ],
+ "attempts": 1,
+ "history": [
+  {
+   "verdict": "accepted",
+   "bands": 0,
+   "coverage": 0.97
+  }
+ ],
+ "usd": 0.0364,
+ "reviewer_reason": null,
+ "case": "paper-53-p9-p0009-b006"
+}

@@ -1,0 +1,75 @@
+{
+ "box": [
+  109.0,
+  636.0,
+  506.0,
+  715.0
+ ],
+ "dpi": 400,
+ "rows": [
+  [
+   "Test Water",
+   "Stirring Conditions",
+   "Raw Turbidity Values (NTU) / Raw Lake Water",
+   "Raw Turbidity Values (NTU) / Influent",
+   "Raw Turbidity Values (NTU) / Filtration Alone",
+   "Raw Turbidity Values (NTU) / Pre-treated",
+   "Raw Turbidity Values (NTU) / Effluent"
+  ],
+  [
+   "No",
+   "Standard",
+   "3.6",
+   "3.6",
+   "2.5",
+   "",
+   "0.31"
+  ],
+  [
+   "Pasteurized",
+   "",
+   "",
+   "",
+   "",
+   "0.90",
+   "0.25"
+  ],
+  [
+   "Sewage",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "0.30"
+  ]
+ ],
+ "padded": false,
+ "cut_off": [],
+ "uncertain": [],
+ "notes": "Three short rows appear under “Test Water”: No, Pasteurized, Sewage; only some columns contain values for each row.",
+ "check": {
+  "checked": true,
+  "native_words": 28,
+  "coverage": 1.0,
+  "precision": 0.968,
+  "missing": [],
+  "invented": [
+   "pretreated"
+  ],
+  "excluded_lines": []
+ },
+ "bands": 0,
+ "verdict": "accepted",
+ "attempts": 1,
+ "history": [
+  {
+   "verdict": "accepted",
+   "bands": 0,
+   "coverage": 1.0
+  }
+ ],
+ "usd": 0.181,
+ "reviewer_reason": "Small, multi-row table with merged headers and several cells (row labels and two Effluent values) are ambiguous at this render; cannot confidently reconstruct full row structure.",
+ "case": "paper-3-p19-p0019-b015"
+}

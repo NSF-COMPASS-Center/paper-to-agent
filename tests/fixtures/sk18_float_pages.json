@@ -1,0 +1,1866 @@
+{
+ "1": {
+  "page": 1,
+  "width": 595.2760009765625,
+  "height": 833.7009887695312,
+  "reviewed": true,
+  "review_notes": "fixture from runs/sk18-v2: reading order checked against the render.",
+  "items": [
+   {
+    "id": "p0001-b000",
+    "kind": "text",
+    "markdown": "**i An update to this article is included at the end**",
+    "bbox": [
+     183.0,
+     16.0,
+     415.0,
+     27.0
+    ]
+   },
+   {
+    "id": "p0001-b001",
+    "kind": "text",
+    "markdown": "Science of the Total Environment 563–564 (2016) 29–39",
+    "bbox": [
+     221.0,
+     77.0,
+     383.0,
+     85.0
+    ]
+   },
+   {
+    "id": "p0001-b002",
+    "kind": "omit",
+    "markdown": "",
+    "bbox": [
+     37.0,
+     97.0,
+     108.0,
+     174.0
+    ],
+    "label": "Figure on PDF page 1 (3)",
+    "asset_name": "figure-p0001-002",
+    "reason": "Publisher logo (Elsevier), decorative"
+   },
+   {
+    "id": "p0001-b003",
+    "kind": "text",
+    "markdown": "Contents lists available at ScienceDirect",
+    "bbox": [
+     232.0,
+     104.0,
+     375.0,
+     111.0
+    ]
+   },
+   {
+    "id": "p0001-b004",
+    "kind": "text",
+    "markdown": "Science of the Total Environment",
+    "bbox": [
+     199.0,
+     125.0,
+     408.0,
+     137.0
+    ]
+   },
+   {
+    "id": "p0001-b005",
+    "kind": "text",
+    "markdown": "journal homepage: www.elsevier.com/locate/scitotenv",
+    "bbox": [
+     179.0,
+     160.0,
+     427.0,
+     168.0
+    ]
+   },
+   {
+    "id": "p0001-b006",
+    "kind": "omit",
+    "markdown": "",
+    "bbox": [
+     499.0,
+     91.0,
+     567.0,
+     174.0
+    ],
+    "label": "Figure on PDF page 1 (7)",
+    "asset_name": "figure-p0001-006",
+    "reason": "Journal cover thumbnail, decorative publisher furniture"
+   },
+   {
+    "id": "p0001-b007",
+    "kind": "text",
+    "markdown": "Investigation of enteric adenovirus and poliovirus removal by coagulation processes and suitability of bacteriophages MS2 and φX174 as surrogates for those viruses",
+    "bbox": [
+     42.0,
+     207.0,
+     477.0,
+     256.0
+    ]
+   },
+   {
+    "id": "p0001-b008",
+    "kind": "omit",
+    "markdown": "",
+    "bbox": [
+     501.0,
+     201.0,
+     536.0,
+     236.0
+    ],
+    "label": "Figure on PDF page 1 (9)",
+    "asset_name": "figure-p0001-008",
+    "reason": "CrossMark badge (publisher mark), decorative"
+   },
+   {
+    "id": "p0001-b009",
+    "kind": "text",
+    "markdown": "N. Shirasaki ⁎, T. Matsushita, Y. Matsui, T. Marubayashi, K. Murai",
+    "bbox": [
+     42.0,
+     266.0,
+     346.0,
+     278.0
+    ]
+   },
+   {
+    "id": "p0001-b010",
+    "kind": "text",
+    "markdown": "Division of Environmental Engineering, Faculty of Engineering, Hokkaido University, N13W8, Sapporo 060-8628, Japan",
+    "bbox": [
+     42.0,
+     284.0,
+     364.0,
+     292.0
+    ]
+   },
+   {
+    "id": "p0001-b011",
+    "kind": "text",
+    "markdown": "H I G H L I G H T S",
+    "bbox": [
+     42.0,
+     313.0,
+     113.0,
+     319.0
+    ]
+   },
+   {
+    "id": "p0001-b013",
+    "kind": "text",
+    "markdown": "- Removal of enteric AdV and PV during coagulation was evaluated.",
+    "bbox": [
+     42.0,
+     334.0,
+     176.0,
+     352.0
+    ]
+   },
+   {
+    "id": "p0001-b014",
+    "kind": "text",
+    "markdown": "- A nonsulfated high-basicity PACl effectively removed AdV and PV.",
+    "bbox": [
+     42.0,
+     353.0,
+     176.0,
+     371.0
+    ]
+   },
+   {
+    "id": "p0001-b015",
+    "kind": "text",
+    "markdown": "- Bacteriophage MS2 does not appear to be an appropriate surrogate for AdV and PV.",
+    "bbox": [
+     42.0,
+     373.0,
+     176.0,
+     398.0
+    ]
+   },
+   {
+    "id": "p0001-b016",
+    "kind": "text",
+    "markdown": "- Bacteriophage φX174 is a potential conservative AdV and PV surrogate.",
+    "bbox": [
+     42.0,
+     401.0,
+     176.0,
+     419.0
+    ]
+   },
+   {
+    "id": "p0001-b017",
+    "kind": "text",
+    "markdown": "- Virus hydrophobicity and sensitivity to virucidal activity affected virus removal.",
+    "bbox": [
+     42.0,
+     420.0,
+     176.0,
+     438.0
+    ]
+   },
+   {
+    "id": "p0001-b012",
+    "kind": "text",
+    "markdown": "G R A P H I C A L A B S T R A C T",
+    "bbox": [
+     206.0,
+     313.0,
+     335.0,
+     319.0
+    ]
+   },
+   {
+    "id": "p0001-b018",
+    "kind": "figure",
+    "markdown": "",
+    "bbox": [
+     201.0,
+     334.0,
+     567.0,
+     456.0
+    ],
+    "label": "Figure on PDF page 1 (19)",
+    "asset_name": "figure-p0001-018"
+   },
+   {
+    "id": "p0001-b019",
+    "kind": "heading",
+    "markdown": "#### Article info",
+    "bbox": [
+     42.0,
+     502.0,
+     138.0,
+     508.0
+    ]
+   },
+   {
+    "id": "p0001-b021",
+    "kind": "text",
+    "markdown": "Article history: Received 12 January 2016 Received in revised form 11 April 2016 Accepted 12 April 2016 Available online 29 April 2016",
+    "bbox": [
+     42.0,
+     520.0,
+     153.0,
+     562.0
+    ]
+   },
+   {
+    "id": "p0001-b022",
+    "kind": "text",
+    "markdown": "Editor: D. Barcelo",
+    "bbox": [
+     42.0,
+     572.0,
+     92.0,
+     578.0
+    ]
+   },
+   {
+    "id": "p0001-b023",
+    "kind": "text",
+    "markdown": "Keywords: Bacteriophage Coagulation Electrophoretic mobility Enteric virus Hydrophobicity Virus inactivation",
+    "bbox": [
+     42.0,
+     590.0,
+     112.0,
+     647.0
+    ]
+   },
+   {
+    "id": "p0001-b020",
+    "kind": "heading",
+    "markdown": "## Abstract",
+    "bbox": [
+     206.0,
+     502.0,
+     272.0,
+     508.0
+    ]
+   },
+   {
+    "id": "p0001-b024",
+    "kind": "text",
+    "markdown": "We evaluated the removal of enteric adenovirus (AdV) type 40 and poliovirus (PV) type 1 by coagulation, using water samples from 13 water sources for drinking water treatment plants in Japan. The behaviors of two widely accepted enteric virus surrogates, bacteriophages MS2 and φX174, were compared with the behaviors of AdV and PV. Coagulation with polyaluminum chloride (PACl, basicity 1.5) removed AdV and PV from virus-spiked source waters: the infectious AdV and PV removal ratios evaluated by means of a plaque-forming-unit method were 0.1–1.4-log10 and 0.5–2.4-log10, respectively. A nonsulfated high-basicity PACl (basicity 2.1) removed infectious AdV and PV more efficiently than did other commercially available PACls (basicity 1.5–2.1), alum, and ferric chloride. The MS2 removal ratios tended to be larger than those of AdV and PV, partly because of differences in the hydrophobicities of the virus particles and the sensitivity of the virus to the virucidal activity of PACl; the differences in removal ratios were not due to differences in the surface charges of the virus particles. MS2, which was more hydrophobic than the other viruses, was inactivated during coagulation with PACl. Therefore, MS2 does not appear to be an appropriate surrogate for AdV and PV during coagulation. In contrast, because φX174, like AdV and PV, was not inactivated during coagulation, and because the hydrophobicity of φX174 was similar to or somewhat lower than the hydrophobicities of AdV and PV, the φX174 removal ratios tended to be similar to or somewhat smaller than those of the enteric viruses. Therefore, φX174 is a potential conservative surrogate for AdV and PV during coagulation. In summary, the surface hydrophobicity of virus particles and the sensitivity of the virus to the virucidal activity of the coagulant are probably important determinants of the efficiency of virus removal during coagulation.",
+    "bbox": [
+     206.0,
+     521.0,
+     562.0,
+     692.0
+    ]
+   },
+   {
+    "id": "p0001-b025",
+    "kind": "text",
+    "markdown": "© 2016 Elsevier B.V. All rights reserved.",
+    "bbox": [
+     435.0,
+     693.0,
+     562.0,
+     701.0
+    ]
+   },
+   {
+    "id": "p0001-b026",
+    "kind": "text",
+    "markdown": "> ⁎ Corresponding author.",
+    "bbox": [
+     48.0,
+     733.0,
+     119.0,
+     741.0
+    ]
+   },
+   {
+    "id": "p0001-b027",
+    "kind": "text",
+    "markdown": "> E-mail address: nobutaka@eng.hokudai.ac.jp (N. Shirasaki).",
+    "bbox": [
+     54.0,
+     742.0,
+     221.0,
+     749.0
+    ]
+   },
+   {
+    "id": "p0001-b028",
+    "kind": "text",
+    "markdown": "http://dx.doi.org/10.1016/j.scitotenv.2016.04.090 0048-9697/© 2016 Elsevier B.V. All rights reserved.",
+    "bbox": [
+     42.0,
+     770.0,
+     188.0,
+     786.0
+    ]
+   }
+  ]
+ },
+ "3": {
+  "page": 3,
+  "width": 595.2760009765625,
+  "height": 793.7009887695312,
+  "reviewed": true,
+  "review_notes": "fixture from runs/sk18-v2: reading order checked against the render.",
+  "items": [
+   {
+    "id": "p0003-b000",
+    "kind": "omit",
+    "markdown": "N. Shirasaki et al. / Science of the Total Environment 563–564 (2016) 29–39",
+    "bbox": [
+     198.0,
+     37.0,
+     406.0,
+     45.0
+    ],
+    "reason": "Running header"
+   },
+   {
+    "id": "p0003-b001",
+    "kind": "omit",
+    "markdown": "31",
+    "bbox": [
+     554.0,
+     38.0,
+     562.0,
+     43.0
+    ],
+    "reason": "Page-number-only footer/header; confirm against preview."
+   },
+   {
+    "id": "p0003-b002",
+    "kind": "text",
+    "markdown": "surrogates for human enteric viruses. By using a combination of PFU and PCR methods, we quantified infectious viruses and total viruses with the goal of determining the mechanism of virus reduction (i.e., physical removal, inactivation, or both) during coagulation.",
+    "bbox": [
+     42.0,
+     57.0,
+     294.0,
+     97.0
+    ]
+   },
+   {
+    "id": "p0003-b003",
+    "kind": "heading",
+    "markdown": "## 2. Materials and methods",
+    "bbox": [
+     42.0,
+     109.0,
+     137.0,
+     117.0
+    ]
+   },
+   {
+    "id": "p0003-b005",
+    "kind": "heading",
+    "markdown": "### 2.1. Source water and coagulants",
+    "bbox": [
+     42.0,
+     130.0,
+     155.0,
+     139.0
+    ]
+   },
+   {
+    "id": "p0003-b007",
+    "kind": "text",
+    "markdown": "The water samples used in the present study were collected from 13 water sources for drinking water treatment plants in various areas of Japan (water quality data for the sources are shown in Table 1). All of these treatment plants employ coagulation with aluminum-based coagulants (PACl or alum) followed by rapid sand filtration for the production of drinking water. Five of the plants also use ozonation and biological activated-carbon filtration. The source water samples were stored at 4 °C until use and brought to 20 °C immediately prior to use.",
+    "bbox": [
+     42.0,
+     151.0,
+     294.0,
+     233.0
+    ]
+   },
+   {
+    "id": "p0003-b008",
+    "kind": "text",
+    "markdown": "For the batch coagulation experiments, we used three commercially available aluminum-based coagulants: PACl-1.5s, PACl-2.1s, and alum. PACl-1.5s (PACl 250 A) has a basicity ([OH<sup>–</sup> ]/[Al<sup>3+</sup> ]) of 1.5, contains 10.1% (w/w) Al2O3 and 2.9% (w/w) sulfate, and has a relative density of 1.2 at 20 °C; the “1.5” in the name indicates the basicity, and the “s” indicates that the PACl is sulfated. PACl-2.1s (PACl 700A) is a highbasicity PACl (basicity, 2.1) containing 10.2% Al2O3 and 2.1% sulfate and having a relative density 1.2 at 20 °C. Alum has a basicity of 0, contains 8.2% Al2O3 and 22.7% sulfate, and has a relative density of 1.3 at 20 °C. PACl-1.5s, PACl-2.1s, and alum were obtained from Taki Chemical Co. (Kakogawa, Japan). These three coagulants were compared with PACl-2.1 ns, a nonsulfated (ns), high-basicity (2.1) PACl containing 10.4% Al2O3 and having a relative density of 1.2 at 20 °C (Taki Chemical Co.), and with an FeCl3 solution prepared by dissolution of reagentgrade iron (III) chloride hexahydrate (FeCl3·6H2O, Wako Pure Chemical Industries, Osaka, Japan) in Milli-Q water (Milli-Q Advantage, Millipore Corp., Billerica, MA, USA). Immediately prior to the coagulation experiments, the coagulants were diluted with Milli-Q water.",
+    "bbox": [
+     42.0,
+     235.0,
+     294.0,
+     422.0
+    ]
+   },
+   {
+    "id": "p0003-b009",
+    "kind": "heading",
+    "markdown": "### 2.2. Human enteric viruses",
+    "bbox": [
+     42.0,
+     434.0,
+     133.0,
+     441.0
+    ]
+   },
+   {
+    "id": "p0003-b010",
+    "kind": "text",
+    "markdown": "Enteric AdV type 40 strain Dugan (ATCC VR-931) was obtained from American Type Culture Collection (ATCC, Manassas, VA, USA). The virus was propagated in human lung carcinoma epithelial cells (A549 cells, ATCC CCL-185) obtained from ATCC and maintained in 1× Dulbecco's modified Eagle's medium (Life Technologies, Carlsbad, CA, USA) supplemented with 10% (v/v) heat-inactivated fetal bovine serum (Life Technologies), 100 units/mL penicillin, and 100 μg/mL streptomycin (Pen Strep, Life Technologies).",
+    "bbox": [
+     42.0,
+     454.0,
+     294.0,
+     537.0
+    ]
+   },
+   {
+    "id": "p0003-b011",
+    "kind": "text",
+    "markdown": "PV type 1 Sabin attenuated LSc/2ab strain was kindly provided by Dr. Hiroyuki Shimizu of the National Institute of Infectious Diseases (Tokyo, Japan). The virus was propagated in buffalo green monkey kidney epithelial cells, which were kindly supplied by Dr. Daisuke Sano of",
+    "bbox": [
+     42.0,
+     538.0,
+     294.0,
+     578.0
+    ]
+   },
+   {
+    "id": "p0003-b004",
+    "kind": "text",
+    "markdown": "Hokkaido University (Sapporo, Japan) and maintained in 1× Eagle's minimum essential medium (with phenol red, Nissui Pharmaceutical Co., Tokyo, Japan) supplemented with 10% heat-inactivated fetal bovine serum, 2 mM L-glutamine (Life Technologies), 100 units/mL penicillin, 100 μg/mL streptomycin, and 1.125 g/L sodium hydrogen carbonate. The details of the propagation and purification of AdV and PV are described in Supplementary information.",
+    "bbox": [
+     310.0,
+     57.0,
+     562.0,
+     129.0
+    ],
+    "join_previous": "space"
+   },
+   {
+    "id": "p0003-b006",
+    "kind": "heading",
+    "markdown": "### 2.3. Bacteriophages",
+    "bbox": [
+     310.0,
+     141.0,
+     376.0,
+     150.0
+    ]
+   },
+   {
+    "id": "p0003-b012",
+    "kind": "text",
+    "markdown": "F-specific RNA bacteriophage MS2 (NBRC 102619) and somatic DNA bacteriophage φX174 (NBRC 103405) were obtained from the NITE Biological Research Center (Kisarazu, Japan), as were the Escherichia coli bacterial hosts in which the bacteriophages were propagated (NBRC 13965 for MS2, NBRC 13898 for φX174). The details of the propagation and purification of the bacteriophages are described in Supplementary information.",
+    "bbox": [
+     310.0,
+     161.0,
+     562.0,
+     232.0
+    ]
+   },
+   {
+    "id": "p0003-b013",
+    "kind": "heading",
+    "markdown": "### 2.4. Batch coagulation experiments",
+    "bbox": [
+     310.0,
+     245.0,
+     429.0,
+     254.0
+    ]
+   },
+   {
+    "id": "p0003-b014",
+    "kind": "text",
+    "markdown": "Batch coagulation experiments were conducted with 300 mL of virus-spiked source water in square plastic beakers at 20 °C. Purified MS2 and φX174 solutions (see Supplementary information) were simultaneously added to the beaker at initial concentrations (C0) of approximately 10<sup>6</sup> PFU/mL and 10<sup>4–5</sup> PFU/mL, respectively; then purified AdV or PV solution (see Supplementary Information) was added to the beaker at an initial concentration (C0) of approximately 10<sup>2</sup> PFU/mL or 10<sup>3</sup> PFU/ mL. Although the initial virus concentrations in the virus-spiked source water samples differed depending on the virus type, we confirmed that the difference in initial concentration did not affect the infectious MS2 and φX174 removal performance of coagulation with PACl-1.5s, at least in the concentration range of 10<sup>3</sup> –10<sup>6</sup> PFU/mL. Because the purified virus solutions were diluted by their addition to the source water, virus addition contributed b0.2–0.3 mg/L of unintentional carry-over of dissolved organic carbon. After enough HCl or NaOH was added to the spiked water to bring the final pH to 7 for PACl and alum or 6 for FeCl3, a coagulant was injected into the water. The coagulant dosages added to the source water samples were the same as the dosages used at the corresponding drinking water treatment plant on the day the source water was sampled (Table 1). The water was stirred rapidly for 1 min (G = 200 s<sup>−1</sup> , 94 rpm) and then slowly for 10 min (G = 20 s<sup>−1</sup> , 20 rpm) with an impeller stirrer. The water was then allowed to stand for 60 min to settle the generated aluminum or iron floc particles. After the settling, approximately 100 or 120 mL of supernatants were sampled from the beaker for quantification of the AdV, PV, and bacteriophage concentrations (Cs) and turbidity. In addition, a portion of each supernatant (approximately 50 or 80 mL) was filtered through a polytetrafluoroethylene membrane filter (nominal pore size 0.45 μm; Dismic-25HP, Toyo Roshi Kaisha, Tokyo, Japan) for quantification of the AdV, PV, and bacteriophage concentrations (Cf) and the residual",
+    "bbox": [
+     310.0,
+     266.0,
+     562.0,
+     578.0
+    ]
+   },
+   {
+    "id": "p0003-b015",
+    "kind": "caption",
+    "markdown": "Table 1",
+    "bbox": [
+     42.0,
+     594.0,
+     64.0,
+     601.0
+    ]
+   },
+   {
+    "id": "p0003-b016",
+    "kind": "text",
+    "markdown": "Water quality data for the source water samples, along with coagulant type and dosage.",
+    "bbox": [
+     42.0,
+     603.0,
+     292.0,
+     610.0
+    ]
+   },
+   {
+    "id": "p0003-b017",
+    "kind": "table",
+    "markdown": "||Sampling date|pH|Turbidity (NTU)|DOC (mg/L)|UV260 (cm<sup>−1</sup>)|Alkalinity (mg-CaCO3/L)|Coagulant type|Coagulant dosage at sampling day (mM-Al)|\n|---|---|---|---|---|---|---|---|---|\n|A|15-Jan-14|7.6|1.0|0.4|0.009|49.8|PACl|40|\n|B|14-Jan-14|7.9|1.2|0.4|0.011|55.7|PACl|40|\n|C|15-Aug-13|7.3|2.9|1.4|0.028|32.5|alum|40|\n|D|15-Aug-13|7.2|1.3|0.8|0.025|14.3|PACl|40|\n|E|07-Aug-13|7.1|13.7|0.8|0.028|21.9|PACl|50|\n|F|14-Aug-13|7.4|6.2|1.5|0.034|39.5|PACl|50|\n|G|19-Aug-13|8.0|1.0|0.5|0.010|47.1|PACl|50|\n|H|20-Aug-13|6.8|2.0|0.7|0.016|37.7|PACl|60|\n|I|14-Aug-13|7.4|1.1|1.2|0.032|46.2|PACl|70|\n|J|06-Aug-13|6.3|17.5|1.2|0.032|40.6|PACl|80|\n|K|23-Jul-14|8.1|4.8|2.7|0.074|103.0|PACl|110|\n|L|06-Aug-13|7.4|9.7|1.4|0.036|49.7|PACl|120|\n|M|07-Aug-13|7.2|27.1|3.9|0.082|73.5|PACl|200|",
+    "bbox": [
+     43.0,
+     612.0,
+     561.0,
+     746.0
+    ],
+    "label": "Table 1",
+    "asset_name": "table-1"
+   }
+  ]
+ },
+ "4": {
+  "page": 4,
+  "width": 595.2760009765625,
+  "height": 793.7009887695312,
+  "reviewed": true,
+  "review_notes": "fixture from runs/sk18-v2: reading order checked against the render.",
+  "items": [
+   {
+    "id": "p0004-b000",
+    "kind": "omit",
+    "markdown": "N. Shirasaki et al. / Science of the Total Environment 563–564 (2016) 29–39",
+    "bbox": [
+     190.0,
+     37.0,
+     397.0,
+     45.0
+    ],
+    "reason": "Running header"
+   },
+   {
+    "id": "p0004-b001",
+    "kind": "omit",
+    "markdown": "32",
+    "bbox": [
+     33.0,
+     38.0,
+     42.0,
+     43.0
+    ],
+    "reason": "Page-number-only footer/header; confirm against preview."
+   },
+   {
+    "id": "p0004-b002",
+    "kind": "text",
+    "markdown": "aluminum concentration. The turbidity was quantified with a 2100Q Portable Turbidimeter (Hach Company, Loveland, CO, USA). After the addition of 1% (v/v) nitric acid (ultrapure, Kanto Chemical Co., Inc., Tokyo, Japan) to the membrane permeate, aluminum concentration was determined by inductively coupled plasma–mass spectrometry (Agilent 7700 series, Agilent Technologies, Inc., Santa Clara, CA, USA).",
+    "bbox": [
+     33.0,
+     57.0,
+     285.0,
+     118.0
+    ]
+   },
+   {
+    "id": "p0004-b003",
+    "kind": "heading",
+    "markdown": "### 2.5. AdV and PV assay",
+    "bbox": [
+     33.0,
+     130.0,
+     109.0,
+     139.0
+    ]
+   },
+   {
+    "id": "p0004-b004",
+    "kind": "text",
+    "markdown": "Infectious AdV was quantified by a plaque assay recently developed by Cromeans et al. (2008) with some modifications. Infectious PV was quantified by means of a plaque assay described by Sano et al. (2001), with slight modifications. The details of the plaque assays are described in Supplementary information.",
+    "bbox": [
+     33.0,
+     151.0,
+     285.0,
+     202.0
+    ]
+   },
+   {
+    "id": "p0004-b005",
+    "kind": "text",
+    "markdown": "Real-time PCR, which detects all viruses regardless of their infectivity or the existence of aggregates, was used to quantify DNA and RNA. Specifically, AdV viral DNA was quantified by real-time PCR, and PV viral RNA was quantified by real-time reverse-transcription PCR (real-time RTPCR). The details of the real-time PCR and real-time RT-PCR methods are described in Supplementary Information including Table S1.",
+    "bbox": [
+     33.0,
+     203.0,
+     285.0,
+     265.0
+    ]
+   },
+   {
+    "id": "p0004-b006",
+    "kind": "heading",
+    "markdown": "### 2.6. Bacteriophage assay",
+    "bbox": [
+     33.0,
+     277.0,
+     117.0,
+     286.0
+    ]
+   },
+   {
+    "id": "p0004-b007",
+    "kind": "text",
+    "markdown": "Infectious bacteriophages were quantified by determination of the number of PFUs according to the double-layer method (Adams, 1959) with E. coli (NBRC 13965 for MS2, NBRC 13898 for φX174) as a bacterial host. The average of the plaque counts of triplicate plates prepared from one sample was considered as the infectious bacteriophage concentration for that sample.",
+    "bbox": [
+     33.0,
+     297.0,
+     285.0,
+     359.0
+    ]
+   },
+   {
+    "id": "p0004-b008",
+    "kind": "text",
+    "markdown": "MS2 viral RNA was quantified by real-time RT-PCR, and φX174 viral DNA was quantified by real-time PCR. The details of the real-time PCR and real-time RT-PCR methods are described in Supplementary information including Table S1.",
+    "bbox": [
+     33.0,
+     360.0,
+     285.0,
+     401.0
+    ]
+   },
+   {
+    "id": "p0004-b009",
+    "kind": "heading",
+    "markdown": "### 2.7. Electrophoretic mobility and hydrophobicity",
+    "bbox": [
+     33.0,
+     413.0,
+     198.0,
+     422.0
+    ]
+   },
+   {
+    "id": "p0004-b010",
+    "kind": "text",
+    "markdown": "The electrophoretic mobilities of AdV, PV, MS2, and φX174 were measured in prepared Milli-Q water and in filtered source water samples. The hydrophobicities of AdV, PV, MS2, and φX174 were estimated by the bacterial adherence to hydrocarbon method (Rosenberg et al., 1980), with some modifications. The details of the electrophoretic mobility and hydrophobicity measurements are described in Supplementary information including Figs. S1 and S2.",
+    "bbox": [
+     33.0,
+     433.0,
+     285.0,
+     505.0
+    ]
+   },
+   {
+    "id": "p0004-b011",
+    "kind": "heading",
+    "markdown": "## 3. Results and discussion",
+    "bbox": [
+     33.0,
+     517.0,
+     126.0,
+     525.0
+    ]
+   },
+   {
+    "id": "p0004-b012",
+    "kind": "heading",
+    "markdown": "### 3.1. Virus removal by coagulation with PACl-1.5 s",
+    "bbox": [
+     33.0,
+     538.0,
+     199.0,
+     547.0
+    ]
+   },
+   {
+    "id": "p0004-b013",
+    "kind": "text",
+    "markdown": "Fig. 1 shows the removal ratios (log10[C0/Cs]) of infectious AdV and PV, as evaluated by the PFU method, after coagulation with PACl-1.5s",
+    "bbox": [
+     33.0,
+     559.0,
+     285.0,
+     578.0
+    ]
+   },
+   {
+    "id": "p0004-b014",
+    "kind": "text",
+    "markdown": "and subsequent settling. Because AdV and PV particles are small and the particle monodispersion is stabilized by electrical repulsion in the source water samples used in the present study (see Section 3.3), no removal (≤0.1-log10) of AdV or PV was observed in the absence of a coagulant at pH 6 or 7. In contrast, coagulation with PACl-1.5 s under conditions to optimize turbidity removal (76–N99%) and minimize residual aluminum concentration (≤ 0.05 mg-Al/L) removed AdV and PV from the virus-spiked source waters. The addition of the coagulant destabilized the virus particle dispersion in the source waters, the particles were entrapped in or adsorbed onto the aluminum floc particles generated during coagulation, and then floc particles with the entrapped or adsorbed viruses settled from suspension under the influence of gravity during the settling process. The removal ratios of infectious AdV and PV were 0.1–1.4-log10 and 0.5–2.4-log10, respectively, and the ratios depended strongly on source water quality: for example, coagulation resulted in 0.1-log10 and 0.7-log10 removals of infectious AdV and PV from source water K but 1.4-log10 and 2.4-log10 removals from source water M.",
+    "bbox": [
+     301.0,
+     57.0,
+     553.0,
+     242.0
+    ],
+    "join_previous": "space"
+   },
+   {
+    "id": "p0004-b015",
+    "kind": "text",
+    "markdown": "Other researchers have also reported that aluminum-based coagulants are useful for removing human enteric viruses and that raw water quality affects virus removal. For example, Nasser et al. (1995) reported that the presence of humic acid in raw water negatively affects virus removal. Although the turbidity and alkalinity of raw water are well recognized as parameters that affect coagulation efficiency, Rao et al. (1988) found that these two parameters had no influence on virus removal. The source water samples used in the present study differed substantially with respect to their water quality parameters (which are listed in Table 1). The samples also differed with respect to the coagulant dosage used at their drinking water treatment plants (Table 1). Coagulant dosage is an important determinant of coagulation efficiency, and the optimum coagulant dosage for removing turbidity and minimizing residual aluminum concentration depends strongly on the source water quality. Additional research is necessary to elucidate the water quality parameters and process factors that have the largest impact on the efficiency of virus removal during coagulation processes.",
+    "bbox": [
+     301.0,
+     245.0,
+     553.0,
+     432.0
+    ]
+   },
+   {
+    "id": "p0004-b016",
+    "kind": "text",
+    "markdown": "Fig. 2 shows the removal ratios (log10[C0/Cf]) of infectious AdV and PV after coagulation with PACl-1.5 s, settling, and subsequent membrane filtration. Because the diameters of AdV and PV particles (approximately 80–100 and 20–30 nm, respectively) are smaller than the pore size of the membrane filter (0.45 μm), no removal (b 0.2-log10) of AdV or PV was observed in the absence of a coagulant. Compared to coagulation and settling alone (Fig. 1), the combination of coagulation, settling, and membrane filtration improved AdV and PV removal ratios by approximately 2–3-log10: 1.9–N3.7-log10 and 2.4–N3.9-log10 removals were achieved for infectious AdV and PV, respectively. These results indicate that viruses entrapped in or adsorbed onto the aluminum floc particles that could not be excluded from suspension by gravity during settling were effectively removed by the subsequent membrane filtration.",
+    "bbox": [
+     301.0,
+     433.0,
+     553.0,
+     577.0
+    ]
+   },
+   {
+    "id": "p0004-b017",
+    "kind": "figure",
+    "markdown": "",
+    "bbox": [
+     61.0,
+     588.0,
+     525.0,
+     732.0
+    ],
+    "label": "Figure 1",
+    "asset_name": "figure-1"
+   },
+   {
+    "id": "p0004-b018",
+    "kind": "text",
+    "markdown": "Fig. 1. Effects of source water quality on removal of infectious AdV (a) and PV (b) by coagulation with PACl-1.5 s and settling, as evaluated by the PFU method.",
+    "bbox": [
+     69.0,
+     738.0,
+     518.0,
+     745.0
+    ]
+   }
+  ]
+ },
+ "5": {
+  "page": 5,
+  "width": 595.2760009765625,
+  "height": 793.7009887695312,
+  "reviewed": true,
+  "review_notes": "fixture from runs/sk18-v2: reading order checked against the render.",
+  "items": [
+   {
+    "id": "p0005-b000",
+    "kind": "omit",
+    "markdown": "N. Shirasaki et al. / Science of the Total Environment 563–564 (2016) 29–39",
+    "bbox": [
+     198.0,
+     37.0,
+     406.0,
+     45.0
+    ],
+    "reason": "Running header: journal info"
+   },
+   {
+    "id": "p0005-b001",
+    "kind": "omit",
+    "markdown": "33",
+    "bbox": [
+     554.0,
+     38.0,
+     562.0,
+     43.0
+    ],
+    "reason": "Page-number-only footer/header; confirm against preview."
+   },
+   {
+    "id": "p0005-b002",
+    "kind": "figure",
+    "markdown": "",
+    "bbox": [
+     70.0,
+     48.0,
+     534.0,
+     191.0
+    ],
+    "label": "Figure 2",
+    "asset_name": "figure-2"
+   },
+   {
+    "id": "p0005-b003",
+    "kind": "caption",
+    "markdown": "Fig. 2. Effects of source water quality on removal of infectious AdV (a) and PV (b) by coagulation with PACl-1.5s, settling, and filtration, as evaluated by the PFU method. Arrows indicate that the virus concentrations were below the quantification limit (1/6 PFU/mL).",
+    "bbox": [
+     42.0,
+     198.0,
+     562.0,
+     214.0
+    ]
+   },
+   {
+    "id": "p0005-b004",
+    "kind": "text",
+    "markdown": "Hijnen and Medema (2010) reviewed seven reports (published from 1975 to 2003) describing the removal of viruses, including human enteric viruses and bacteriophages, by coagulation–rapid granular filtration and estimated that the microorganism elimination credit of this process was 3.0 ± 1.4-log10 (range, 1.2-log10 to 5.3-log10) for viruses. Although the virus removal mechanism of media filtration differs from that of membrane filtration, the removal performances we observed for AdV and PV in the present study were similar to those reported by Hijnen and Medema.",
+    "bbox": [
+     42.0,
+     235.0,
+     294.0,
+     327.0
+    ]
+   },
+   {
+    "id": "p0005-b005",
+    "kind": "heading",
+    "markdown": "### 3.2. Effects of coagulant dosage and coagulant type on virus removal",
+    "bbox": [
+     42.0,
+     339.0,
+     275.0,
+     348.0
+    ]
+   },
+   {
+    "id": "p0005-b006",
+    "kind": "text",
+    "markdown": "As described above, the AdV and PV removal ratios for coagulation with PACl-1.5s depended on source water quality, and the removal ratios obtained with source water K were markedly lower than those with source water M. With the goal of improving the removal of AdV and PV, we investigated the effects of coagulant dosage and coagulant type on virus removal from source water samples B, D, and K because the water qualities of these samples were quite different from one another (Table 1), and the AdV and PV removal ratios obtained with PACl-1.5s for these samples were lower than the ratios for the other samples used in the present study (Fig. 1). In addition, because source water C is treated with alum in its corresponding drinking water treatment plant (Table 1), the virus removal performances of coagulation with PACl-1.5s and with alum were compared for source water C. Infectious AdV and PV removal ratios (log10[C0/Cf]) obtained by means of coagulation and settling were somewhat improved by a 2-fold increase in the dosage of PACl-1.5s (Fig. 3). In addition, the virus removal ratios also depended on coagulant type: infectious AdV and PV removal ratios obtained with alum and FeCl3 were almost the same as or somewhat smaller than those obtained with PACl-1.5s, whereas the ratios obtained with high-basicity PACls, particularly PACl-2.1ns, were larger than those obtained with the other coagulants used in the present study, including",
+    "bbox": [
+     42.0,
+     360.0,
+     294.0,
+     578.0
+    ]
+   },
+   {
+    "id": "p0005-b007",
+    "kind": "text",
+    "markdown": "PACl-1.5s at a 2-fold increased dosage. We previously reported that PACl-2.1ns has higher colloid charge density than PACl-1.5s, PACl-2.1s, and alum, probably due to the high colloidal aluminum content and the absence of sulfate in PACl-2.1ns (Shirasaki et al., 2014). Because high colloid charge density gives a coagulant a high capacity to neutralize negatively charged viruses during coagulation, PACl-2.1ns removed AdV and PV more effectively than did the other coagulants.",
+    "bbox": [
+     310.0,
+     235.0,
+     562.0,
+     306.0
+    ]
+   },
+   {
+    "id": "p0005-b008",
+    "kind": "text",
+    "markdown": "When the process involving coagulation, settling, and filtration was used, the infectious AdV and PV removal ratios (log10[C0/Cf]) were markedly increased relative to the ratios obtained with the process involving only coagulation and settling; and at least 3-log10 removals were achieved with all the coagulants except PACl-1.5s (Fig. 4). In particular, coagulation with FeCl3 resulted in >4-log10 removals of PV from all the source water samples.",
+    "bbox": [
+     310.0,
+     308.0,
+     562.0,
+     380.0
+    ]
+   },
+   {
+    "id": "p0005-b009",
+    "kind": "heading",
+    "markdown": "### 3.3. Relationships between enteric virus removal and bacteriophage removal",
+    "bbox": [
+     310.0,
+     392.0,
+     562.0,
+     409.0
+    ]
+   },
+   {
+    "id": "p0005-b010",
+    "kind": "text",
+    "markdown": "To investigate whether the bacteriophages MS2 and φX174 were adequate surrogates for AdV and PV during coagulation, we determined the relationships between enteric virus and bacteriophage removal ratios (Figs. 5 and 6). Values of the virus removal ratios that were below the detection limit were excluded from the analysis. In addition, the data obtained from experiments involving coagulation with the high-basicity PACl were also excluded because the number of samples was limited. Analysis of covariance was used to compare the differences in the relationships between enteric virus and bacteriophage removal ratios for the various coagulant types and separation processes. Excel Toukei 2012 software (Social Survey Research Information Co., Tokyo, Japan) was used to conduct the statistical analyses. Because the removal ratio data obtained by the PFU method did not satisfy several key assumptions that underlie the use of analysis of covariance, we used total virus removal ratio data determined by the PCR method (Table S2). The relationships",
+    "bbox": [
+     310.0,
+     423.0,
+     562.0,
+     578.0
+    ]
+   },
+   {
+    "id": "p0005-b011",
+    "kind": "figure",
+    "markdown": "",
+    "bbox": [
+     70.0,
+     588.0,
+     534.0,
+     732.0
+    ],
+    "label": "Figure 3",
+    "asset_name": "figure-3"
+   },
+   {
+    "id": "p0005-b012",
+    "kind": "caption",
+    "markdown": "Fig. 3. Effects of coagulant dosage and coagulant type on removal of infectious AdV (a) and PV (b) by coagulation and settling, as evaluated by the PFU method. ND, not determined.",
+    "bbox": [
+     46.0,
+     738.0,
+     558.0,
+     745.0
+    ]
+   }
+  ]
+ },
+ "6": {
+  "page": 6,
+  "width": 595.2760009765625,
+  "height": 793.7009887695312,
+  "reviewed": true,
+  "review_notes": "fixture from runs/sk18-v2: reading order checked against the render.",
+  "items": [
+   {
+    "id": "p0006-b000",
+    "kind": "omit",
+    "markdown": "N. Shirasaki et al. / Science of the Total Environment 563–564 (2016) 29–39",
+    "bbox": [
+     190.0,
+     37.0,
+     397.0,
+     45.0
+    ],
+    "reason": "Running header"
+   },
+   {
+    "id": "p0006-b001",
+    "kind": "omit",
+    "markdown": "34",
+    "bbox": [
+     33.0,
+     38.0,
+     42.0,
+     43.0
+    ],
+    "reason": "Page-number-only footer/header; confirm against preview."
+   },
+   {
+    "id": "p0006-b002",
+    "kind": "figure",
+    "markdown": "",
+    "bbox": [
+     60.0,
+     48.0,
+     526.0,
+     192.0
+    ],
+    "label": "Figure 4",
+    "asset_name": "figure-4"
+   },
+   {
+    "id": "p0006-b003",
+    "kind": "caption",
+    "markdown": "Fig. 4. Effects of coagulant dosage and coagulant type on removal of infectious AdV (a) and PV (b) by coagulation, settling, and filtration, as evaluated by the PFU method. Arrows indicate that the virus concentrations were below the quantification limit (1/6 PFU/mL). ND, not determined.",
+    "bbox": [
+     33.0,
+     198.0,
+     553.0,
+     214.0
+    ]
+   },
+   {
+    "id": "p0006-b004",
+    "kind": "text",
+    "markdown": "between total AdV removal ratio and total MS2 removal ratio did not differ significantly among the three coagulants, whether or not coagulation and settling were followed by filtration (analysis of covariance, P N 0.63); whereas the relationships were significantly different between after settling and after filtration regardless of the coagulant type (P b 0.02) (Table S2). Similar results were observed for the other comparisons shown in Table S2, except in the following two cases: comparison between alum coagulation with settling and alum coagulation with settling and filtration (P = 0.06), and comparison between FeCl3 coagulation",
+    "bbox": [
+     33.0,
+     235.0,
+     285.0,
+     327.0
+    ],
+    "join_previous": "space"
+   },
+   {
+    "id": "p0006-b005",
+    "kind": "text",
+    "markdown": "with settling and FeCl3 coagulation with settling and filtration (P = 0.12). These results indicate that the relationship between enteric virus particle removal ratios and bacteriophage particle removal ratios was the same regardless of coagulant type used, whereas the relationship differed between the separation processes. Accordingly, for each separation process, the data sets for the three coagulants were combined for regression analysis.",
+    "bbox": [
+     301.0,
+     235.0,
+     553.0,
+     306.0
+    ]
+   },
+   {
+    "id": "p0006-b006",
+    "kind": "text",
+    "markdown": "Total MS2 removal ratios evaluated by the PCR method tended to be larger than total AdV removal ratios obtained by coagulation combined",
+    "bbox": [
+     301.0,
+     308.0,
+     553.0,
+     327.0
+    ]
+   },
+   {
+    "id": "p0006-b007",
+    "kind": "figure",
+    "markdown": "",
+    "bbox": [
+     89.0,
+     340.0,
+     497.0,
+     723.0
+    ],
+    "label": "Figure 5",
+    "asset_name": "figure-5"
+   },
+   {
+    "id": "p0006-b008",
+    "kind": "caption",
+    "markdown": "Fig. 5. Relationships between infectious AdV and MS2 removal ratios (a), infectious PV and MS2 removal ratios (b), infectious AdV and φX174 removal ratios (c), and infectious PV and φX174 removal ratios (d) during coagulation.",
+    "bbox": [
+     33.0,
+     730.0,
+     553.0,
+     746.0
+    ]
+   }
+  ]
+ },
+ "7": {
+  "page": 7,
+  "width": 595.2760009765625,
+  "height": 793.7009887695312,
+  "reviewed": true,
+  "review_notes": "fixture from runs/sk18-v2: reading order checked against the render.",
+  "items": [
+   {
+    "id": "p0007-b000",
+    "kind": "omit",
+    "markdown": "N. Shirasaki et al. / Science of the Total Environment 563–564 (2016) 29–39",
+    "bbox": [
+     198.0,
+     37.0,
+     406.0,
+     45.0
+    ],
+    "reason": "Running header"
+   },
+   {
+    "id": "p0007-b001",
+    "kind": "omit",
+    "markdown": "35",
+    "bbox": [
+     554.0,
+     38.0,
+     562.0,
+     43.0
+    ],
+    "reason": "Page-number-only footer/header; confirm against preview."
+   },
+   {
+    "id": "p0007-b002",
+    "kind": "figure",
+    "markdown": "",
+    "bbox": [
+     98.0,
+     48.0,
+     506.0,
+     429.0
+    ],
+    "label": "Figure 6",
+    "asset_name": "figure-6"
+   },
+   {
+    "id": "p0007-b003",
+    "kind": "caption",
+    "markdown": "Fig. 6. Relationships between total AdV and MS2 removal ratios (a), total PV and MS2 removal ratios (b), total AdV and φX174 removal ratios (c), and total PV and φX174 removal ratios (d) during coagulation.",
+    "bbox": [
+     42.0,
+     436.0,
+     562.0,
+     452.0
+    ]
+   },
+   {
+    "id": "p0007-b004",
+    "kind": "text",
+    "markdown": "with settling and filtration (Fig. 6a), and a similar trend was observed for the relationship between total PV and total MS2 removal ratios (Fig. 6b). These results indicate that the behaviors of MS2 and enteric virus particles differed during coagulation and that MS2 does not appear to be an appropriate surrogate for AdV and PV, because the AdV and PV removal ratios would be overestimated if MS2 was used as a surrogate. In addition, there was no correlation or only a weak correlation between the total MS2 and total AdV or PV removal ratios obtained by coagulation (Fig. 6a, b). These relationships also support our contention that MS2 may not be an appropriate surrogate for AdV and PV.",
+    "bbox": [
+     42.0,
+     465.0,
+     294.0,
+     568.0
+    ],
+    "join_previous": "space"
+   },
+   {
+    "id": "p0007-b005",
+    "kind": "text",
+    "markdown": "In contrast, total φX174 removal ratios tended to be similar to or somewhat smaller than total AdV removal ratios obtained by coagulation combined with settling and filtration (Fig. 6c), and a similar trend was observed for the relationship between total PV and total φX174 removal ratios (Fig. 6d). These results indicate that φX174 has the potential to be a conservative surrogate for AdV and PV during coagulation. However, there was no correlation or only weak correlation between the total φX174 and total AdV or PV removal ratios obtained by coagulation (Fig. 6c, d). Because the total φX174 removal ratios observed in the present study were in a limited range (approximately 0–2-log10) compared with those of other viruses, data limitations may have been a reason for the poor correlation. Further investigation involving additional source water samples and coagulants is necessary to determine whether φX174 can actually be used as a conservative surrogate for AdV and PV during coagulation.",
+    "bbox": [
+     42.0,
+     569.0,
+     294.0,
+     725.0
+    ]
+   },
+   {
+    "id": "p0007-b006",
+    "kind": "text",
+    "markdown": "The surface charge on virus particles is often invoked to explain virus removal by physicochemical water treatment processes, including",
+    "bbox": [
+     42.0,
+     726.0,
+     294.0,
+     746.0
+    ]
+   },
+   {
+    "id": "p0007-b007",
+    "kind": "text",
+    "markdown": "coagulation (Matsushita et al., 2004). To investigate why the MS2 removal ratios were larger than those of AdV and PV whereas the φX174 removal ratios were similar to or smaller than those of the enteric viruses, we compared the electrophoretic mobilities of AdV, PV, MS2, and φX174 in prepared Milli-Q water at various pH values (Fig. S3) and in the filtered source water samples used in the present study at a coagulation pH of 6 or 7 (Fig. 7). In prepared Milli-Q water, the electrophoretic mobilities of the virus particles were positive at pH values b4 for AdV and PV and b2 for MS2 and φX174, whereas the electrophoretic mobilities were negative at pH values larger than 5 for AdV and PV and larger than 3 for MS2 and φX174 (Fig. S3). The pH values at which the electrophoretic mobilities of AdV, PV, MS2, and φX174 were equal to zero (i.e., the isoelectric points) were 3.7, 4.1, 2.2, and 1.6, respectively. In a review of virus isoelectric point measurements, Michen and Graule (2010) reported that the isoelectric points of AdV type 5, MS2, and φX174 determined by means of laser scattering (the method used in the present study) were 4.5, 2.2–3.9, and 2.6, which are roughly in agreement with our results. In contrast, although there are no available isoelectric point data for PV measured by means of laser scattering, the isoelectric point of PV type 1 has been measured by isoelectric focusing in dense aqueous solutions and has been reported to range from 3.8 to 4.5 and from 6.8 to 8.3 (Michen and Graule, 2010); the former range is roughly in agreement with our result. Because the isoelectric points of AdV, PV, MS2, and φX174 observed in the present study were b 4.1, these viruses are negatively charged at around neutral pH. In fact, AdV, PV, MS2, and φX174 showed negative electrophoretic mobilities in the filtered source water samples at pH 6",
+    "bbox": [
+     310.0,
+     465.0,
+     562.0,
+     746.0
+    ],
+    "join_previous": "space"
+   }
+  ]
+ },
+ "8": {
+  "page": 8,
+  "width": 595.2760009765625,
+  "height": 793.7009887695312,
+  "reviewed": true,
+  "review_notes": "fixture from runs/sk18-v2: reading order checked against the render.",
+  "items": [
+   {
+    "id": "p0008-b000",
+    "kind": "omit",
+    "markdown": "N. Shirasaki et al. / Science of the Total Environment 563–564 (2016) 29–39",
+    "bbox": [
+     190.0,
+     37.0,
+     397.0,
+     45.0
+    ],
+    "reason": "Running header"
+   },
+   {
+    "id": "p0008-b001",
+    "kind": "omit",
+    "markdown": "36",
+    "bbox": [
+     33.0,
+     38.0,
+     42.0,
+     43.0
+    ],
+    "reason": "Page-number-only footer/header; confirm against preview."
+   },
+   {
+    "id": "p0008-b002",
+    "kind": "figure",
+    "markdown": "",
+    "bbox": [
+     90.0,
+     48.0,
+     497.0,
+     219.0
+    ],
+    "label": "Figure 7",
+    "asset_name": "figure-7"
+   },
+   {
+    "id": "p0008-b003",
+    "kind": "caption",
+    "markdown": "Fig. 7. Electrophoretic mobilities of AdV, PV, MS2, and φX174 in filtered source water samples at pH 6 (a) and 7 (b). Values are means, and error bars indicate standard deviations (n = 9).",
+    "bbox": [
+     33.0,
+     226.0,
+     553.0,
+     233.0
+    ]
+   },
+   {
+    "id": "p0008-b004",
+    "kind": "text",
+    "markdown": "and 7 (Fig. 7). However, the magnitude of the electrophoretic mobility depended on the virus type: under both pH conditions, φX174 tended to be the most negatively charged, followed by MS2, AdV, and PV in that order. The order of the electrophoretic mobilities of the viruses was not in accordance with the order of the removal ratios by coagulation (MS2 N PV N AdV N φX174). Therefore, the difference in the AdV, PV, MS2, and φX174 removal ratios during coagulation did not depend solely on the difference in electrophoretic mobility between the viruses in the source water samples used in the present study. Dika et al. (2015) reported that in prepared de-ionized water at pH 7, MS2 is more negatively charged than φX174, in agreement with our observation in prepared Milli-Q water at the same pH (Fig. S3). In contrast, φX174 tended to be more negatively charged than MS2 in the filtered source water samples, as described above, probably owing to the difference in the solvent water quality. In fact, Bellou et al. (2015) reported that the surface charges of MS2 and φX174 are almost the same at pH 7 when 2 mM phosphate-buffered saline is used as the solvent.",
+    "bbox": [
+     33.0,
+     247.0,
+     285.0,
+     423.0
+    ],
+    "join_previous": "space"
+   },
+   {
+    "id": "p0008-b005",
+    "kind": "text",
+    "markdown": "We also estimated the hydrophobicities of AdV, PV, MS2, and φX174 by using the bacterial adherence to hydrocarbon method (Fig. 8). AdV and φX174 remained completely in the water phase after mixing with all the tested solvents, whereas PV and MS2 were transferred to the solvent phase when n-octane, p-xylene, or toluene was used as the solvent. In addition, the percentage of MS2 remaining in the water phase after mixing with toluene was lower than that of PV. These results indicate that the viruses have different surface hydrophobicities, with MS2 being the most hydrophobic, followed by PV, AdV, and φX174 in that order. Dika et al. (2015) reported that MS2 is more hydrophobic than φX174, which agrees with our results. Because mechanisms that destabilize viruses and NOM during the coagulation process, that is,",
+    "bbox": [
+     33.0,
+     425.0,
+     285.0,
+     549.0
+    ]
+   },
+   {
+    "id": "p0008-b006",
+    "kind": "figure",
+    "markdown": "",
+    "bbox": [
+     33.0,
+     568.0,
+     286.0,
+     723.0
+    ],
+    "label": "Figure 8",
+    "asset_name": "figure-8"
+   },
+   {
+    "id": "p0008-b007",
+    "kind": "caption",
+    "markdown": "Fig. 8. Hydrophobicities of AdV, PV, MS2, and φX174. Values are means, and error bars indicate standard deviations (n = 2 or 3).",
+    "bbox": [
+     33.0,
+     730.0,
+     285.0,
+     745.0
+    ]
+   },
+   {
+    "id": "p0008-b008",
+    "kind": "text",
+    "markdown": "coordination reactions between coagulant species and carboxyl groups of the virus surface proteins or NOM, are similar for the two species (Bratby, 2006), and because the hydrophobic fractions of NOM are removed from water more efficiently than are the hydrophilic fractions (Matilainen et al., 2010), virus particles having a more hydrophobic surface can be expected to be removed during coagulation to a greater extent than viruses having a less hydrophobic surface. In fact, the order of the hydrophobicities of the viruses was in accordance with their removal ratios by coagulation (MS2 N PV N AdV N φX174). Therefore, the differences in hydrophobicity between AdV, PV, MS2, and φX174 contributed to differences in their removal ratios during coagulation.",
+    "bbox": [
+     301.0,
+     247.0,
+     553.0,
+     361.0
+    ]
+   },
+   {
+    "id": "p0008-b009",
+    "kind": "heading",
+    "markdown": "### 3.4. Effect of virucidal activity of coagulant on virus removal",
+    "bbox": [
+     301.0,
+     381.0,
+     506.0,
+     390.0
+    ]
+   },
+   {
+    "id": "p0008-b010",
+    "kind": "text",
+    "markdown": "As described above, the behaviors of the MS2 and enteric virus particles during coagulation differed partly because of the difference in hydrophobicity between the viruses, and the removal ratios of total MS2, which has a more hydrophobic surface than the enteric viruses, tended to be larger than total enteric virus removal ratios (Fig. 6a, b). In addition, the removal ratios of infectious MS2 also tended to be larger than those of infectious AdV and PV (Fig. 5a, b), whereas the removal ratios of infectious φX174 were similar to or somewhat smaller than those of infectious AdV and PV (Fig. 5c, d). To investigate why the removal ratios of infectious MS2, particularly those obtained by coagulation with PACl, were larger than those of infectious enteric viruses, we compared the removal ratios of infectious viruses evaluated by the PFU method and the total virus removal ratios evaluated by the PCR method for each virus (Fig. 9). The removal ratios determined by the two methods did not differ significantly for AdV and PV, no matter what type of coagulant was used (two-tailed t-test, P N 0.05; Fig. 9a, b). In contrast, although no significant difference between the MS2 removal ratios determined by the two methods was observed when alum or FeCl3 was used as a coagulant (P N 0.43), the removal ratios differed significantly when PACl was used as the coagulant (P = 0.00): the removal ratios of infectious MS2 were larger than those of total MS2 (Fig. 9c). This difference between the two methods could be explained by the formation of aggregates consisting of several infectious MS2 particles, by inactivation of MS2 during coagulation, or by both. Some research groups, including ours, have reported that the bacteriophages MS2 and Qβ lose their infectivity after contact with PACl, whereas alum and FeCl3 have no significant effect on bacteriophage infectivity (Matsushita et al., 2011; Kreissel et al., 2014). These results suggest that the virucidal activity of PACl contributes to the removal of infectious MS2 during coagulation, and our observation that neither alum nor FeCl3 showed virucidal activity during coagulation agrees with the previous results, because the MS2 removal ratios determined by the two methods did not differ significantly, as described above.",
+    "bbox": [
+     301.0,
+     402.0,
+     553.0,
+     746.0
+    ]
+   }
+  ]
+ },
+ "9": {
+  "page": 9,
+  "width": 595.2760009765625,
+  "height": 793.7009887695312,
+  "reviewed": true,
+  "review_notes": "fixture from runs/sk18-v2: reading order checked against the render.",
+  "items": [
+   {
+    "id": "p0009-b000",
+    "kind": "omit",
+    "markdown": "N. Shirasaki et al. / Science of the Total Environment 563–564 (2016) 29–39",
+    "bbox": [
+     198.0,
+     37.0,
+     406.0,
+     45.0
+    ],
+    "reason": "Running header"
+   },
+   {
+    "id": "p0009-b001",
+    "kind": "omit",
+    "markdown": "37",
+    "bbox": [
+     554.0,
+     38.0,
+     562.0,
+     43.0
+    ],
+    "reason": "Page-number-only footer/header; confirm against preview."
+   },
+   {
+    "id": "p0009-b002",
+    "kind": "figure",
+    "markdown": "",
+    "bbox": [
+     98.0,
+     48.0,
+     506.0,
+     427.0
+    ],
+    "label": "Figure 9",
+    "asset_name": "figure-9"
+   },
+   {
+    "id": "p0009-b003",
+    "kind": "caption",
+    "markdown": "Fig. 9. Comparison of infectious virus removal ratios evaluated by the PFU method and total virus removal ratios evaluated by the PCR method for AdV (a), PV (b), MS2 (c), and φX174 (d) during coagulation.",
+    "bbox": [
+     42.0,
+     433.0,
+     562.0,
+     449.0
+    ]
+   },
+   {
+    "id": "p0009-b004",
+    "kind": "text",
+    "markdown": "In contrast, no significant difference between the two methods was observed for AdV or PV, even during coagulation with PACl (Fig. 9a, b); in other words, these viruses were not inactivated during coagulation. In addition, Kreissel et al. (2014) reported that φX174 does not lose its infectivity after contact with PACl; their results agree with ours because the removal ratios of infectious φX174 were not larger than those of total φX174 no matter what type of coagulant was used (Fig. 9d). These results indicate that φX174 was also not inactivated during coagulation. Accordingly, the fact that the infectious MS2 removal ratio obtained by means of PACl coagulation was higher than the infectious PV and AdV removal ratios was due in part to the inactivation of MS2 by PACl during coagulation.",
+    "bbox": [
+     42.0,
+     465.0,
+     294.0,
+     589.0
+    ]
+   },
+   {
+    "id": "p0009-b005",
+    "kind": "text",
+    "markdown": "Although the mechanism of virus inactivation during coagulation with PACl remains unclear, a possible explanation for MS2 inactivation could be that its adsorption onto the host bacteria is blocked by polymeric aluminum species such as Al13 species [AlO4Al12(OH)24(H2O)12]<sup>7+</sup> that are present in PACl or are formed during coagulation; monomeric aluminum species, which are the major aluminum species in alum, have been shown not to account for MS2 inactivation (Matsushita et al., 2011; Kreissel et al., 2014). F-specific RNA bacteriophages MS2 and Qβ, which are sensitive to the virucidal activity of PACl, have a capsid made up of 180 copies of a coat protein and one copy of a maturation protein (protein A), and the maturation protein has been shown to be responsible for the adsorption of these bacteriophages to the F-pili of the host bacteria at the initial stage of virus infection (Fauquet et al., 2005). In contrast, the surface of somatic DNA bacteriophage φX174, which is not sensitive to the virucidal activity of PACl, has 12 spikes made up of a major spike protein (protein G) and a",
+    "bbox": [
+     42.0,
+     590.0,
+     294.0,
+     746.0
+    ]
+   },
+   {
+    "id": "p0009-b006",
+    "kind": "text",
+    "markdown": "minor spike protein (protein H), both of which are thought to be involved in recognition by and binding to the receptor on the host bacteria (Olson et al., 1992). AdV also has 12 vertex capsomers, which consist of a penton protein and a fiber capsid protein, and these capsomers are responsible for binding of AdV to the protein coxsackie and adenovirus receptor on the surface of the host cell (Bosshard et al., 2013). PV consists of 60 copies of surface proteins VP1, VP2, and VP3, along with the internal protein VP4; and the five-fold axis formed by five VP1s (a total of 12 sites) on the virion surface has been proposed to attach to the PV receptor on the host cell surface (Arita et al., 1998). The fact that only a single protein on the MS2 surface is responsible for adsorption of the virus to the host bacteria—as opposed to 12 binding sites in the cases of AdV, PV, and φX174—might be related to the different sensitivities of MS2 and other viruses to the virucidal activity of PACl.",
+    "bbox": [
+     310.0,
+     465.0,
+     562.0,
+     610.0
+    ],
+    "join_previous": "space"
+   },
+   {
+    "id": "p0009-b007",
+    "kind": "heading",
+    "markdown": "### 3.5. Relationship between AdV removal and PV removal",
+    "bbox": [
+     310.0,
+     622.0,
+     499.0,
+     631.0
+    ]
+   },
+   {
+    "id": "p0009-b008",
+    "kind": "text",
+    "markdown": "As described above, the differences between the removal ratios of the enteric viruses and the bacteriophages were partly due to differences in hydrophobicity and sensitivity to the virucidal activity of PACl. On the other hand, although the electrophoretic mobilities of AdV and PV were almost the same in the source water samples at pH 6 and 7 (Fig. 7) and these viruses were not inactivated during coagulation, the surface of PV was more hydrophobic than that of AdV (Fig. 8). These results indicate that the removal ratios of PV can be expected to be somewhat larger than those of AdV during coagulation. In fact, infectious PV was removed to a slightly greater extent than",
+    "bbox": [
+     310.0,
+     643.0,
+     562.0,
+     746.0
+    ]
+   }
+  ]
+ },
+ "10": {
+  "page": 10,
+  "width": 595.2760009765625,
+  "height": 793.7009887695312,
+  "reviewed": true,
+  "review_notes": "fixture from runs/sk18-v2: reading order checked against the render.",
+  "items": [
+   {
+    "id": "p0010-b001",
+    "kind": "omit",
+    "markdown": "38",
+    "bbox": [
+     33.0,
+     38.0,
+     42.0,
+     43.0
+    ],
+    "reason": "Page-number-only footer/header; confirm against preview."
+   },
+   {
+    "id": "p0010-b002",
+    "kind": "figure",
+    "markdown": "",
+    "bbox": [
+     55.0,
+     48.0,
+     264.0,
+     245.0
+    ],
+    "label": "Figure 10",
+    "asset_name": "figure-10"
+   },
+   {
+    "id": "p0010-b006",
+    "kind": "caption",
+    "markdown": "Fig. 10. Relationship between infectious PV and AdV removal ratios during coagulation.",
+    "bbox": [
+     35.0,
+     252.0,
+     283.0,
+     259.0
+    ]
+   },
+   {
+    "id": "p0010-b008",
+    "kind": "text",
+    "markdown": "infectious AdV during coagulation (Fig. 10). A similar trend was observed for the relationship between the total AdV and PV removal ratios determined by the PCR method (Fig. S4). Accordingly, both the surface hydrophobicity of the virus particles and the sensitivity of the virus to the virucidal activity of coagulant, as well as the surface charge of the virus particles, are probably important determinants of the efficiency of virus removal during coagulation.",
+    "bbox": [
+     33.0,
+     277.0,
+     285.0,
+     348.0
+    ]
+   },
+   {
+    "id": "p0010-b009",
+    "kind": "text",
+    "markdown": "We found that the removal ratios determined by the PFU and PCR methods showed an approximately 1:1 correlation for AdV and PV (Fig. 9a, b). Therefore, the PCR method is probably a satisfactory alternative to the PFU method for evaluating removal of these viruses during coagulation.",
+    "bbox": [
+     33.0,
+     350.0,
+     285.0,
+     401.0
+    ]
+   },
+   {
+    "id": "p0010-b010",
+    "kind": "heading",
+    "markdown": "## 4. Conclusions",
+    "bbox": [
+     33.0,
+     413.0,
+     88.0,
+     420.0
+    ]
+   },
+   {
+    "id": "p0010-b011",
+    "kind": "text",
+    "markdown": "(1) The infectious enteric AdV and PV removal ratios achieved by coagulation with PACl-1.5s ranged from 0.1 to 1.4-log10 and 0.5 to 2.4-log10, respectively, and depended strongly on source water quality.",
+    "bbox": [
+     42.0,
+     438.0,
+     285.0,
+     478.0
+    ]
+   },
+   {
+    "id": "p0010-b012",
+    "kind": "text",
+    "markdown": "(2) A nonsulfated high-basicity PACl (PACl-2.1ns) removed infectious AdV and PV more efficiently than did the other coagulants (PACl-1.5s, alum, and FeCl3).",
+    "bbox": [
+     42.0,
+     480.0,
+     285.0,
+     510.0
+    ]
+   },
+   {
+    "id": "p0010-b013",
+    "kind": "text",
+    "markdown": "(3) Because the bacteriophage MS2 removal ratios tended to be larger than those of AdV and PV, owing in part to the high hydrophobicity of the MS2 virus particles and the high sensitivity of MS2 to the virucidal activity to PACl, this bacteriophage does not appear to be an appropriate surrogate for AdV and PV during coagulation.",
+    "bbox": [
+     42.0,
+     511.0,
+     285.0,
+     562.0
+    ]
+   },
+   {
+    "id": "p0010-b014",
+    "kind": "text",
+    "markdown": "(4) In contrast, the φX174 removal ratios tended to be similar to or somewhat smaller than those of AdV and PV because φX174, like AdV and PV, was not inactivated during coagulation, and the hydrophobicity of φX174 was similar to or somewhat lower than the hydrophobicities of the enteric viruses. Accordingly, φX174 may have the potential to be a conservative surrogate for AdV and PV during coagulation.",
+    "bbox": [
+     42.0,
+     563.0,
+     285.0,
+     635.0
+    ]
+   },
+   {
+    "id": "p0010-b015",
+    "kind": "text",
+    "markdown": "(5) The surface hydrophobicity of virus particles and the sensitivity of a virus to the virucidal activity of the coagulant are probably important determinants of the efficiency of virus removal during coagulation.",
+    "bbox": [
+     42.0,
+     637.0,
+     285.0,
+     677.0
+    ]
+   },
+   {
+    "id": "p0010-b038",
+    "kind": "heading",
+    "markdown": "## Acknowledgements",
+    "bbox": [
+     33.0,
+     705.0,
+     108.0,
+     714.0
+    ]
+   },
+   {
+    "id": "p0010-b039",
+    "kind": "text",
+    "markdown": "We thank Dr. Hiroyuki Shimizu (National Institute of Infectious Diseases) for providing Sabin attenuated LSc/2ab strain of PV type 1.",
+    "bbox": [
+     33.0,
+     726.0,
+     285.0,
+     746.0
+    ]
+   },
+   {
+    "id": "p0010-b003",
+    "kind": "text",
+    "markdown": "We also thank Dr. Daisuke Sano and Ms. Rie Nomachi (Hokkaido University) for providing buffalo green monkey kidney epithelial cells and teaching us the methods of cultivating and quantifying infectious PV. We thank the staff of the drinking water treatment plants for providing source water samples. This research was supported in part by a Grantin-Aid for Young Scientists A (no. 25709044, 2013), a Grant-in-Aid for Scientific Research S (no. 24226012, 2012), and a Grant-in-Aid for Scientific Research B (no. 15H04064, 2015) from the Japan Society for the Promotion of Science; by a Health and Labour Sciences Research Grant (Research on Health Security Control) from the Ministry of Health, Labor and Welfare of Japan; and by a grant from the Kurita Water and Environment Foundation (no. 14A007, 2014).",
+    "bbox": [
+     301.0,
+     57.0,
+     553.0,
+     181.0
+    ]
+   },
+   {
+    "id": "p0010-b004",
+    "kind": "heading",
+    "markdown": "## Appendix A. Supplementary data",
+    "bbox": [
+     301.0,
+     203.0,
+     424.0,
+     212.0
+    ]
+   },
+   {
+    "id": "p0010-b005",
+    "kind": "text",
+    "markdown": "Supplementary data to this article can be found online at http://dx. doi.org/10.1016/j.scitotenv.2016.04.090.",
+    "bbox": [
+     301.0,
+     224.0,
+     553.0,
+     244.0
+    ]
+   },
+   {
+    "id": "p0010-b007",
+    "kind": "heading",
+    "markdown": "## References",
+    "bbox": [
+     301.0,
+     266.0,
+     343.0,
+     273.0
+    ]
+   },
+   {
+    "id": "p0010-b016",
+    "kind": "text",
+    "markdown": "- Abbaszadegan, M., Stewart, P., Gerba, C., LeChevallier, M., 1999. A strategy for detection of viruses in groundwater by PCR. Appl. Environ. Microbiol. 65 (11), 5192-5192.",
+    "bbox": [
+     301.0,
+     283.0,
+     553.0,
+     299.0
+    ]
+   },
+   {
+    "id": "p0010-b017",
+    "kind": "text",
+    "markdown": "- Abbaszadegan, M., Mayer, B.K., Ryu, H., Nwachuku, N., 2007. Efficacy of removal of CCL vi- ruses under enhanced coagulation conditions. Environ. Sci. Technol. 41 (3), 971–977.",
+    "bbox": [
+     301.0,
+     299.0,
+     553.0,
+     307.0
+    ]
+   },
+   {
+    "id": "p0010-b019",
+    "kind": "text",
+    "markdown": "Adams, M.H., 1959. Bacteriophages. Interscience Publishers, New York, NY, USA.",
+    "bbox": [
+     301.0,
+     315.0,
+     530.0,
+     323.0
+    ]
+   },
+   {
+    "id": "p0010-b020",
+    "kind": "text",
+    "markdown": "- Allard, A., Girones, R., Juto, P., Wadell, G., 1990. Polymerase chain-reaction for detection of adenoviruses in stool samples. J. Clin. Microbiol. 28 (12), 2659–2667.",
+    "bbox": [
+     301.0,
+     323.0,
+     553.0,
+     338.0
+    ]
+   },
+   {
+    "id": "p0010-b021",
+    "kind": "text",
+    "markdown": "- Arita, M., Koike, S., Aoki, J., Horie, H., Nomoto, A., 1998. Interaction of poliovirus with its purified receptor and conformational alteration in the virion. J. Virol. 72 (5), 3578–3586.",
+    "bbox": [
+     301.0,
+     339.0,
+     553.0,
+     361.0
+    ]
+   },
+   {
+    "id": "p0010-b022",
+    "kind": "text",
+    "markdown": "- Arkhangelsky, E., Gitis, V., 2008. Effect of transmembrane pressure on rejection of viruses by ultrafiltration membranes. Sep. Purif. Technol. 62 (3), 619–628.",
+    "bbox": [
+     301.0,
+     363.0,
+     553.0,
+     378.0
+    ]
+   },
+   {
+    "id": "p0010-b023",
+    "kind": "text",
+    "markdown": "- Bellou, M.I., Syngouna, V.I., Tselepi, M.A., Kokldnos, P.A., Paparrodopoulos, S.C., Vantarakis, A., Chrysikopoulos, C.V., 2015. Interaction of human adenoviruses and coliphages with kaolinite and bentonite. Sci. Total Environ. 517, 86–95.",
+    "bbox": [
+     301.0,
+     379.0,
+     553.0,
+     402.0
+    ]
+   },
+   {
+    "id": "p0010-b024",
+    "kind": "text",
+    "markdown": "- Bosch, A., 2007. Human Viruses in Water. Elsevier Academic Press, Amsterdam, The Netherlands.",
+    "bbox": [
+     301.0,
+     403.0,
+     553.0,
+     417.0
+    ]
+   },
+   {
+    "id": "p0010-b025",
+    "kind": "text",
+    "markdown": "- Bosshard, F., Armand, F., Hamelin, R., Kohn, T., 2013. Mechanisms of human adenovirus inactivation by sunlight and UVC light as examined by quantitative PCR and quantitative proteomics. Appl. Environ. Microbiol. 79 (4), 1325–1332.",
+    "bbox": [
+     301.0,
+     419.0,
+     553.0,
+     442.0
+    ]
+   },
+   {
+    "id": "p0010-b026",
+    "kind": "text",
+    "markdown": "- Bratby, J., 2006. Coagulation and Flocculation in Water and Wastewater Treatment. second ed. IWA Publishing, London, UK.",
+    "bbox": [
+     301.0,
+     443.0,
+     553.0,
+     458.0
+    ]
+   },
+   {
+    "id": "p0010-b027",
+    "kind": "text",
+    "markdown": "- Cromeans, T.L., Lu, X., Erdman, D.D., Humphrey, C.D., Hill, V.R., 2008. Development of plaque assays for adenoviruses 40 and 41. J. Virol. Methods 151 (1), 140–145.",
+    "bbox": [
+     301.0,
+     459.0,
+     553.0,
+     474.0
+    ]
+   },
+   {
+    "id": "p0010-b028",
+    "kind": "text",
+    "markdown": "- Cromeans, T.L., Kahler, A.M., Hill, V.R., 2010. Inactivation of adenoviruses, enteroviruses, and murine norovirus in water by free chlorine and monochloramine. Appl. Environ. Microbiol. 76 (4), 1028–1033.",
+    "bbox": [
+     301.0,
+     475.0,
+     553.0,
+     498.0
+    ]
+   },
+   {
+    "id": "p0010-b029",
+    "kind": "text",
+    "markdown": "- Dika, C., Duval, J.F., Francius, G., Perrin, A., Gantzer, C., 2015. Isoelectric point is an inadequate descriptor of MS2, Phi X 174 and PRD1 phages adhesion on abiotic surfaces. J. Colloid Interface Sci. 446, 327–334.",
+    "bbox": [
+     301.0,
+     498.0,
+     553.0,
+     522.0
+    ]
+   },
+   {
+    "id": "p0010-b030",
+    "kind": "text",
+    "markdown": "- Fauquet, C.M., Mayo, M.A., Maniloff, J., Desselberger, U., Ball, L.A. (Eds.), 2005. Virus Taxonomy: Eighth Report of the International Committee on Taxonomy of Viruses. Elsevier Academic Press, London, UK.",
+    "bbox": [
+     301.0,
+     522.0,
+     553.0,
+     545.0
+    ]
+   },
+   {
+    "id": "p0010-b031",
+    "kind": "text",
+    "markdown": "- Fong, T.T., Lipp, E.K., 2005. Enteric viruses of humans and animals in aquatic environments: health risks, detection, and potential water quality assessment tools. Microbiol. Mol. Biol. Rev. 69 (2), 357–371.",
+    "bbox": [
+     301.0,
+     546.0,
+     553.0,
+     570.0
+    ]
+   },
+   {
+    "id": "p0010-b032",
+    "kind": "text",
+    "markdown": "- Fong, T.T., Phanikumar, M.S., Xagoraraki, I., Rose, J.B., 2010. Quantitative detection of human adenoviruses in wastewater and combined sewer overflows influencing a Michigan River. Appl. Environ. Microbiol. 76 (3), 715–723.",
+    "bbox": [
+     301.0,
+     570.0,
+     553.0,
+     594.0
+    ]
+   },
+   {
+    "id": "p0010-b033",
+    "kind": "text",
+    "markdown": "- Gerba, C.P., Riley, K.R., Nwachuku, N., Ryu, H., Abbaszadegan, M., 2003. Removal of encephalitozoon intestinalis, calicivirus, and coliphages by conventional drinking water treatment. J. Environ. Sci. Health, Part A: Tox. Hazard. Subst. Environ. Eng. 38 (7), 1259–1268.",
+    "bbox": [
+     301.0,
+     594.0,
+     553.0,
+     625.0
+    ]
+   },
+   {
+    "id": "p0010-b034",
+    "kind": "text",
+    "markdown": "- Hijnen, W.A.M., Medema, G.J., 2010. Elimination of Micro-organisms by Drinking Water Treatment Processes: A Review. IWA Publishing, London, UK.",
+    "bbox": [
+     301.0,
+     626.0,
+     553.0,
+     641.0
+    ]
+   },
+   {
+    "id": "p0010-b035",
+    "kind": "text",
+    "markdown": "- Jiang, S.C., 2006. Human adenoviruses in water: occurrence and health implications: a critical review. Environ. Sci. Technol. 40 (23), 7132–7140.",
+    "bbox": [
+     301.0,
+     642.0,
+     553.0,
+     657.0
+    ]
+   },
+   {
+    "id": "p0010-b036",
+    "kind": "text",
+    "markdown": "- Kishida, N., Morita, H., Haramoto, E., Asami, M., Akiba, M., 2012. One-year weekly survey of noroviruses and enteric adenoviruses in the Tone River water in Tokyo metropolitan area, Japan. Water Res. 46 (9), 2905–2910.",
+    "bbox": [
+     301.0,
+     658.0,
+     553.0,
+     681.0
+    ]
+   },
+   {
+    "id": "p0010-b037",
+    "kind": "text",
+    "markdown": "- Kreissel, K., Bosl, M., Hugler, M., Lipp, P., Franzreb, M., Hambsch, B., 2014. Inactivation of F- specific bacteriophages during flocculation with polyaluminum chloride—a mechanistic study. Water Res. 51, 144–151.",
+    "bbox": [
+     301.0,
+     682.0,
+     553.0,
+     705.0
+    ]
+   },
+   {
+    "id": "p0010-b040",
+    "kind": "text",
+    "markdown": "- Lee, S.H., Kim, S.J., 2002. Detection of infectious enteroviruses and adenoviruses in tap water in urban areas in Korea. Water Res. 36 (1), 248–256.",
+    "bbox": [
+     301.0,
+     706.0,
+     553.0,
+     721.0
+    ]
+   },
+   {
+    "id": "p0010-b041",
+    "kind": "text",
+    "markdown": "- Matilainen, A., Vepsalainen, M., Sillanpaa, M., 2010. Natural organic matter removal by coagulation during drinking water treatment: a review. Adv. Colloid Interf. Sci. 159 (2), 189–197.",
+    "bbox": [
+     301.0,
+     722.0,
+     553.0,
+     744.0
+    ]
+   },
+   {
+    "id": "p0010-b000",
+    "kind": "omit",
+    "markdown": "N. Shirasaki et al. / Science of the Total Environment 563–564 (2016) 29–39",
+    "bbox": [
+     190.0,
+     37.0,
+     397.0,
+     45.0
+    ],
+    "reason": "running header"
+   }
+  ]
+ }
+}

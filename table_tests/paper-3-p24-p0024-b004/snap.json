@@ -1,0 +1,44 @@
+{
+ "verdict_before": "accepted",
+ "verdict_after": "accepted",
+ "check_before": {
+  "checked": true,
+  "native_words": 82,
+  "coverage": 0.959,
+  "precision": 0.986,
+  "missing": [
+   "each",
+   "sampling",
+   "point"
+  ],
+  "invented": [
+   "pretreated"
+  ],
+  "excluded_lines": []
+ },
+ "check_after": {
+  "checked": true,
+  "native_words": 82,
+  "coverage": 0.959,
+  "precision": 1.0,
+  "missing": [
+   "each",
+   "sampling",
+   "point"
+  ],
+  "invented": [],
+  "excluded_lines": []
+ },
+ "snaps": [],
+ "paired": [
+  {
+   "row": 0,
+   "col": 5,
+   "from": "Pre-treated",
+   "to": "treated",
+   "edits": 3
+  }
+ ],
+ "unmatched": [],
+ "skipped": ""
+}

@@ -1,0 +1,37 @@
+{
+ "verdict_before": "accepted",
+ "verdict_after": "accepted",
+ "check_before": {
+  "checked": true,
+  "native_words": 82,
+  "coverage": 0.981,
+  "precision": 0.983,
+  "missing": [
+   "hooom"
+  ],
+  "invented": [
+   "chloroform"
+  ]
+ },
+ "check_after": {
+  "checked": true,
+  "native_words": 82,
+  "coverage": 1.0,
+  "precision": 1.0,
+  "missing": [],
+  "invented": [],
+  "excluded_lines": []
+ },
+ "snaps": [],
+ "paired": [
+  {
+   "row": 5,
+   "col": 5,
+   "from": "Chloroform+",
+   "to": "±hooom",
+   "edits": 5
+  }
+ ],
+ "unmatched": [],
+ "skipped": ""
+}

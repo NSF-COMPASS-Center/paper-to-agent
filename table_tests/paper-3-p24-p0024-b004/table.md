@@ -1,0 +1,8 @@
+| Test Water | Stirring Conditions | Raw pH Values / Raw Lake Water | Raw pH Values / Influent | Raw pH Values / Filtration Alone | Raw pH Values / Pre-treated | Raw pH Values / Effluent |
+|---|---|---|---|---|---|---|
+| No Pasteurized Sewage | Standard | 7.1 | 7.0 | 7.4 | 7.0 | 7.0 7.4 7.7 |
+|  | Intermediate | 8.9 | 8.7 | 9.0 | 8.8 | 8.5 8.5 8.6 |
+|  | Minimal | 7.2 | 7.2 | 7.5 | 7.2 | 7.3 7.5 7.3 |
+| +1% Pasteurized Sewage | Standard | 7.5 | 7.5 | 7.6 | 7.5 | 7.6 7.8 8.4 |
+|  | Intermediate | 7.4 | 7.4 | 7.7 | 7.5 | 7.8 7.7 8.1 |
+|  | Minimal | 7.2 | 7.2 | 7.3 | 7.3 | 7.6 7.3 7.4 |

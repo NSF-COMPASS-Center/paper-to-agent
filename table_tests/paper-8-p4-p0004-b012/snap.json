@@ -1,0 +1,198 @@
+{
+ "verdict_before": "rejected",
+ "verdict_after": "accepted",
+ "check_before": {
+  "checked": true,
+  "native_words": 191,
+  "coverage": 0.863,
+  "precision": 0.86,
+  "missing": [
+   "50e30",
+   "gtctccachgacacyaaytggac",
+   "famttytccttygtgcgtgcmgbnfq",
+   "accggatggccaatccaa",
+   "famccgactactttgggtgtccgtgtttc",
+   "gagtggtttgaccttaacgtttga",
+   "ttgtcggttgcaatgcaagt",
+   "aactttctctcttaatagacgcc",
+   "agggggctagaaaacaaaa",
+   "famctgacacgggcactcttcgctamra",
+   "agagtgttgggatcctgtgtttt",
+   "gagaagtgggatgaagacctgttt"
+  ],
+  "invented": [
+   "53",
+   "gtctccachgacayaaytggac",
+   "famttytccctygtgcggcgmgbnfq",
+   "acccgttgcccaatcaa",
+   "famccgactactttggtgttccgtttctamra",
+   "gagtggttgaccttaacgtttga",
+   "ttgtcgctgctaactggttga",
+   "aactttccttaataagacgcc",
+   "agggcgctagaaaaacaaaa",
+   "famctgacacggcgactcctccgtamra",
+   "agagatgctgttggtgttttt",
+   "gagaagtgcgatgaagacctgt"
+  ],
+  "excluded_lines": [
+   "Primers and probes for qPCR detection of viruses."
+  ]
+ },
+ "check_after": {
+  "checked": true,
+  "native_words": 191,
+  "coverage": 0.986,
+  "precision": 0.98,
+  "missing": [
+   "50e30",
+   "gcagcgtcagtgctgtcaa"
+  ],
+  "invented": [
+   "53",
+   "acgctccaa",
+   "gatcctacca"
+  ],
+  "excluded_lines": [
+   "Primers and probes for qPCR detection of viruses."
+  ]
+ },
+ "snaps": [
+  {
+   "row": 8,
+   "col": 3,
+   "from": "GTCTCCACHGACAYAAYTGGAC",
+   "to": "GTCTCCACHGACACYAAYTGGAC"
+  },
+  {
+   "row": 10,
+   "col": 3,
+   "from": "FAM-TTYTCCCTYGTGCGGCG-MGB-NFQ",
+   "to": "FAM-TTYTCCTTYGTGCGTGC-MGB-NFQ"
+  },
+  {
+   "row": 14,
+   "col": 3,
+   "from": "GAGTGGTTGACCTTAACGTTTGA",
+   "to": "GAGTGGTTTGACCTTAACGTTTGA"
+  },
+  {
+   "row": 18,
+   "col": 3,
+   "from": "AGGGCGCTAGAAAAACAAAA",
+   "to": "AGGGGGCTAGAAAACAAAA"
+  },
+  {
+   "row": 21,
+   "col": 3,
+   "from": "GAGAAGTGCGATGAAGACCTGT",
+   "to": "GAGAAGTGGGATGAAGACCTGTTT"
+  },
+  {
+   "row": 28,
+   "col": 2,
+   "from": "MKMNP",
+   "to": "MKMNVP"
+  }
+ ],
+ "paired": [
+  {
+   "row": 12,
+   "col": 3,
+   "from": "ACCCGTTGCCCAATCAA",
+   "to": "ACCGGATGGCCAATCCAA",
+   "edits": 4
+  },
+  {
+   "row": 13,
+   "col": 3,
+   "from": "FAM-CCGACTACTTTGGTGTTCCGTTTC-TAMRA",
+   "to": "FAM-CCGACTACTTTGGGTGTCCGTGTTTC-TAMRA",
+   "edits": 4
+  },
+  {
+   "row": 15,
+   "col": 3,
+   "from": "TTGTCGCTGCTAACTGGTTGA",
+   "to": "TTGTCGGTTGCAATGCAAGT",
+   "edits": 8
+  },
+  {
+   "row": 17,
+   "col": 3,
+   "from": "AACTTTCCTTAATAAGACGCC",
+   "to": "AACTTTCTCTCTTAATAGACGCC",
+   "edits": 4
+  },
+  {
+   "row": 19,
+   "col": 3,
+   "from": "FAM-CTGACACGGCGACTCCTCCG-TAMRA",
+   "to": "FAM-CTGACACGGGCACTCTTCGC-TAMRA",
+   "edits": 5
+  },
+  {
+   "row": 20,
+   "col": 3,
+   "from": "AGAGATGCTGTTGGTGTTTTT",
+   "to": "AGAGTGTTGGGATCCTGTGTTTT",
+   "edits": 8
+  },
+  {
+   "row": 22,
+   "col": 3,
+   "from": "FAM-TCATCACCATGAACACT-MGB-NFQ",
+   "to": "FAM-TCATCACTGGCAAACAT-MGB-NFQ",
+   "edits": 6
+  },
+  {
+   "row": 23,
+   "col": 3,
+   "from": "ATCCAAAACAGCCTGCTCTT",
+   "to": "ATCCAAACCAAGGGCTCTTTTC",
+   "edits": 7
+  },
+  {
+   "row": 24,
+   "col": 3,
+   "from": "CAGGCTCCTCATCTTACTA",
+   "to": "GCACTGCCCTTGCATGCTA",
+   "edits": 9
+  },
+  {
+   "row": 25,
+   "col": 3,
+   "from": "FAM-CAGCTGATGACCTCACTT-MGB-NFQ",
+   "to": "FAM-CAGCTTAGATTAAGGCATTT-MGB-NFQ",
+   "edits": 7
+  },
+  {
+   "row": 26,
+   "col": 3,
+   "from": "CCGTCGAGGTTCTGAGTT",
+   "to": "CGGTGAAGTGCTTCTGAGGTT",
+   "edits": 6
+  },
+  {
+   "row": 28,
+   "col": 3,
+   "from": "FAM-CAGCACGTCGAACGTACG-MGB-NFQ",
+   "to": "FAM-CGAACCTACATGCGTCAG-MGB-NFQ",
+   "edits": 9
+  }
+ ],
+ "unmatched": [
+  {
+   "row": 27,
+   "col": 3,
+   "token": "ACGCTCCAA",
+   "why": "unmatched"
+  },
+  {
+   "row": 27,
+   "col": 3,
+   "token": "GATCCTACCA",
+   "why": "unmatched"
+  }
+ ],
+ "skipped": ""
+}
